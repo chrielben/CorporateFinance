@@ -1,0 +1,45 @@
+# Hillier & Grinblatt: Chapter 21: Risk Management and Corporate Strategy
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 21.1
+
+*Small firms currently hedge less than large firms. Why is this? Do you expect smaller firms to start hedging more in the future? Explain.* [@book, p.712]
+
+### Exercise 21.2
+
+*Why is it harder to hedge currency risks in countries with volatile inflation rates?* [@book, p.712]
+
+### Exercise 21.3
+
+*Piste Resorts is a Swiss ski resort based in the Alps. Discuss the resort's exposure to exchange rate risk.* [@book, p.712]
+
+### Exercise 21.4
+
+*It is now much easier to hedge risks than it was in the past. How should this affect a firm's optimal capital structure? Why?* [@book, p.712]
+
+### Exercise 21.5
+
+*The XYZ Corporation manufactures in both Indonesia and Japan for export to Germany. Japan has a stable monetary policy, and as a result its inflation is easy to predict. Monetary policy in Indonesia is much less predictable. In wich of the two countries can XYZ more easily hedge against the risk that manufacturing costs, measured in euros, will become significantly more expensive? Why?* [@book, p.712]
+
+### Exercise 21.6
+
+*Purchasing power parity (PPP) implies that real exchange rates remain constant. If PPP holds, do firms need to hedge their long-term foreign exchange exposure? Explain.* [@book, p.712]
+
+### Exercise 21.7
+
+*Oil firms hedge only part of their exposure to oil price movements. Why might that be a good idea?* [@book, p.712]
+
+### Exercise 21.8
+
+*Harwood Outboard manufactures outboard motors for relatively inexpensive motor boats. The firm is optimistic about its long-term outlook, but its bond rating is only BB. Describe how you would manage Harwood's liability stream if you believed that within two years Harwood's credit rating would improve to A.* [@book, p.712]

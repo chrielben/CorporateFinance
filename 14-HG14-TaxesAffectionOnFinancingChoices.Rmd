@@ -1,0 +1,97 @@
+# Hillier & Grinblatt: Chapter 14: How Taxes Affect Financing Choices
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 14.1
+
+*Suppose $r_D=12\%$, $\bar{r}_E=10\%$, $T_C=33\%$, $T_D=20\%$.* [@book, p.492]
+
+a. *What is the marginal tax rate on equity income, $T_D$, that would make an investor indifferent in terms of after-tax returns between holding equity or bonds? Assume all betas are zero.* [@book, p.492]
+
+b. *What is the probability that a firm will not utilize its tax shield if, on the margin, the firm is indifferent between issuing a little more debt or equity?* [@book, p.492]
+
+### Exercise 14.2
+
+*Consider a single-period binomial setting where the riskless interest rate is zero, and there are no taxes. A firm consists of a machine that will produce cash flows of £210 if the economy is good and £80 if the economy is bad. The good and bad states occur with equal risk-neutral probability. Initially, the firm has 100 share outstanding, and debt with a face value of £50 due at the end of the period. What is the share price of the firm?* [@book, p.492]
+
+### Exercise 14.3
+
+*Suppose the firm in exercise 14.2 unexpectedly announces that it will issue additional debt, with the same seniority as existing debt and a face value of £50. The firm will use the entire proceeds to repurchase some of the outstanding shares.* [@book, p.492]
+
+a. *What is the market price of the new debt?* [@book, p.492]
+
+b. *Just after the announcement, what will the price of a share jump to?* [@book, p.492]
+
+c. *Show how a shareholder with 20 per cent of the shares outstanding is better off as a result of this transaction when he or she undoes the leverage change.* [@book, p.492]
+
+d. *Show how the Modigliani-Miller Theorem still holds.* [@book, p.492]
+
+### Exercise 14.4
+
+*Assume that the real riskless interest rate is zero and the corporate tax rate is 12.5 per cent. TAL Industries can borrow at the riskless interest rate. It will have an inflation-adjusted EBIT next year of €200 million. It would like to borrow €50 million today. Its only deductions will be interest payments (if any).* [@book, p.492]
+
+a. *What are its interest payments, taxable income, tax payments and income left for shareholders in a no-inflation environment?* [@book, p.492]
+
+b. *Suppose there is inflation of 10 per cent per year, but the real interest rate stays at zero. This means that investors now will require a sure payment of €1.10 next year for each €1.00 loaned today. Repeat part a, assuming that EBIT is affected by inflation.* [@book, p.492]
+
+c. *In which environment is the inflation-adjusted income left for shareholders higher? Why?* [@book, p.493]
+
+### Exercise 14.5
+
+*As owner of 10 per cent of ABC industries, you have control of its capital structure decision. The current corporate tax rate is 25 per cent, and your personal tax rate is 20 per cent. Assume that the returns to shareholders accrue as non-taxable capital gains. ABC currently has no debt, and can finance the repurchase of 10 per cent of its outstanding shares by borrowing \$100 million at the risk-free rate of 10 per cent. The long-term government bond rate is 8 per cent. If you hold your 10 per cent of the firm constant and buy the long-term government bonds, what is your annual after-tax gain from this transaction?* [@book, p.493]
+
+### Exercise 14.6
+
+*Explain how inflation affects the capital structure decision. Does inflation affect the capital structure choice differently for different firms?* [@book, p.493]
+
+### Exercise 14.7
+
+*Assume the corporate tax rate is 50 per cent, AAA corporate bonds are trading at a yield of 9 per cent, and long-term government bonds are trading at a yield of 6 per cent. How can the shareholders of an AAA-rated firm gain by increasing the leverage of their firm without increasing the leverage of their personal portfolio? Assume the probability of bankruptcy is zero.* [@book, p.493]
+
+### Exercise 14.8
+
+*New start-up airlines will normally lease used commercial aeroplanes, whereas older, more established airline firms will tend to buy new aeroplanes. Explain Why.* [@book, p.493]
+
+### Exercise 14.9
+
+*Restaurant chains like McDonald's sometimes franchise their restaurants and sometimes own them outright. The franchised restaurants are usually owned by individuals who hold them as sole ownership firms or partnerships, which pass income through directly to the owners. There is no corporate tax on this income, but the owner must pay personal taxes on the income.* [@book, p.493]
+
+a. *From the perspective of the owner of the franchise, is there a tax advantage to debt financing?* [@book, p.493]
+
+b. *Which organizational form is better from the perspective of tax minimization: corporate ownership of the individual restaurants or franchises?* [@book, p.493]
+
+### Exercise 14.10
+
+*REITs are companies set up to manage investment properties such as office buildings and apartment houses. They are not subject to corporate taxes. How do we expect taxes to affect the capital structure choice of REITs?* [@book, p.493]
+
+### Exercise 14.11
+
+*X-tex Industries has a large depreciation tax deductions, and can thus eliminate all of its taxable income with a relatively small amount of debt. In constrant, Unique Scientific Equipment Corporation is generating a substantial amount of taxable income. Despite the tax advantage of debt, Unique uses only a modest amount of debt financing, because the nature of its products would make financial distress very costly. Suppose the rate of inflation increased from 3 per cent to 6 per cent, increaseing borrowing rates from 6 per cent to 9 per cent. How would this affect the optimal capital structures of these two firms?* [@book, p.493]
+
+### Exercise 14.12
+
+*Helix started an Internet company, Survey-Partner.com, which, unlike others in the industry, generated taxable earnings almost immediately. Hwlix 10 per cent of the shares, and the rest of the shares are held by tax-exempt institutions. The firm needs to raise £100 to purchase £10 million of the new equity to keep his ownership stake constant. However, the institutions would like to see the firm raise the capital through debt. Explain how part of this disagreement might be related to taxes.* [@book, p.493]
+
+### Exercise 14.13
+
+*ABC GmbH, financed with both equity and €10 million in perpetual debt, has pre-tax cash flow estimates for the current year as follows:* [@book, p.493]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*The corporate tax rate is 38.36 per cent, the effective personal tax rate on equity is 0 per cent, and the interest rate on the perpetual debt os 10 per cent. If the expected after-tax cash flows to the debt holders, as a group, are the same as the expected after-tax cash flows to the equity holders, as a group, what is the personal tax rate on debt?* [@book, p.494]
+
+### Exercise 14.14
+
+*B&D Builders Ltd is financed entirly with equity, and has grown very quickly over the past eight years. The firm has hired the consulting firm of M&P Ltd to analyse the firm's financing. The consulting firm recommends that the firm borrow £100 million (face value) in perpetual riskless debt (the current market interest of) 10 per cent and buy back £100 million in equity. The founders, a team of brothers who know how to build houses very well, but not finance, explain that taking on debt would reduce the earnings available to equity each year by the amount of the interest, thus reducing the value of the equity;s claim, and therefore would not benefit the shareholders, most of whom are family. Analyse the founders' argument, and compute the value of the debt tax shield proposed by M&P Ltd, assuming $T_E=0.18$, $T_D=0.40$, and $T_C=0.28$.* [@book, p.494]

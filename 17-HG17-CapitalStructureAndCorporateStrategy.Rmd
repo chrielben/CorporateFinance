@@ -1,0 +1,83 @@
+# Hillier & Grinblatt: Chapter 17: Capital Structure and Corporate Strategy
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 17.1
+
+*What are the differences between direct and indirect bankruptcy costs? Who bears these costs? Explain your answer by referring to real situation from the recent past.* [@book, p.575]
+
+### Exercise 17.2
+
+*As a potential employee, why might you be interested in the employer's capital structure?* [@book, p.575]
+
+### Exercise 17.3
+
+*Compare qualitatively the indirect bankruptcy costs of operating a franchised hotel with those of a running a high-tech start-up computer firm.* [@book, p.575]
+
+### Exercise 17.4
+
+*You are the manager of a company that produces motor vehicles. A union contract will come up for renegotiation in two months, and you wish to increase your firm's bargaining power prior to hearing the union's initial demands. The union is likely to ask for a 25 per centincrease from existing wage levels of €20 per hour for the 1,000 workers at your company. Workers typically work 2,000 hours per year. The firm has €100 million of debt outstanding at an interest rate of 10 per cent annually, and an equity market value of €200 million. Income before interest is €20 million per year. Assume no taxes. What specific financing strategies would you implement, and why?* [@book, p.575]
+
+### Exercise 17.5
+
+*BCD Manufacturing is considering repurchasing 40 per cent of its equity. Management estimates the tax savings from such a move to be £33.6 million, based on the addition of £1 billion of debt at a rate of 12 per cent with a 28 per cent marginal tax rate. However, the company's suppliers are unhappy with the decision, and are threatening to revoke the company's net-30 day credit terms, which will cost the firm an additional 2 per cent on its £1.5 billion inventory. Should management go ahead with the repurchase? Why or why not?* [@book, p.575]
+
+### Exercise 17.6
+
+*FagEnd and DeathBreath, two cigarate producers of comparable size, are struggling for market share in a declining market. FagEnd has just undergone a levered buyout, and is able to meet its fixed expenses with its existing market share, but it may be forced into bankruptcy if it loses market share. As a manager of DeathBreath, how would you establish your pricing policy? If FagEnd enters bankruptcy, it would (a) be forced to liquidate, (b) lose market share because of customer concerns, or (c) emerge recapitalized with no harm to narket share. How would these three possibilities affect your decision?* [@book, p.575-576]
+
+### Exercise 17.7
+
+*Comparing the indirect costs of bankruptcy, explain why TomTom includes very little debt in its capital structure whereas Alitalia uses fairly large amount of debt.* [@book, p.576]
+
+### Exercise 17.8
+
+*Describe the trade-offs involved when firms decide how to price their products. What are the costs and benefits of raising prices? How do interest rates affect the decision? How do leverage ratios affect the decision?* [@book, p.576]
+
+### Exercise 17.9
+
+*Weston Trattore is a cyclical business that is forced to lay off workers during downturns. The CEO estimates that they saved €50 million during the last recession by laying off excess labour. However, the company had additional expenses of €70 million three years later when it had to retain the new workers. The firm is currently facing a similar situation. The risk-free rate is 4 per cent, but Weston's current borrowing rate is 10 per cent. Should Weston lay off the workers? If Weston was less hihly levered, it would be able to borrow at 6 per cent. How would this affect the firm's decision? Discuss how a prospective employee would react on learning that Weston was its leverage substantially.* [@book, p.576]
+
+### Exercise 17.10
+
+*Compass Computers has suffered an unexpected loss and is currently having financial difficulties. Explain why Compass may choose not to issue equity to solve its financial problems. If Compass does not issue equity, should it change its product market strategy to account for the firm's weaker financial health?* [@book, p.576]
+
+### Exercise 17.11
+
+*As the CEO, which do you prefer: a competitor with high leverageor one with low leverage? Under what conditions will you act more or less aggressively if your competitor is highly levered?* [@book, p.576]
+
+### Exercise 17.12
+
+*Compton Holdings currently has 2 million shares outstanding at £3 per share. Because the company is having financial difficulties, it also has £50 million in face value of long-term outstanding debt that is selling at only 60 per cent of its face value. As Compton's CEO, you estimate that you will need a cash inflow of £10 million within six months to meet your payroll. Since covenants in the existing debt preclude further debt financing, you are forced to consider an equity offering. Is suchan offering possible, assuming the equity issue would result in a 20 per cent increase in the value of the debt? Explain why.* [@book, p.576]
+
+### Exercise 17.13
+
+*You have been hired by TomTom, the Dutch satnav firm, to advise it on its capital structure. This €869 million company would like to raise an additional €250 million to acquire the assets of one of its competitors. It currently has very little debt, but it is considering borrowing the entire €250 million. In order to make your recommendation, you have asked the following questions.* [@book, p.576]
+
+a. *Is the CEO, who is a major shareholder, planning on reducing his stake in the business?* [@book, p.576]
+
+b. *Does TomTom require specially trained TomTom technicians for servicing, or can the service be acquired from a variety of sources?* [@book, p.576]
+
+c. *Does TomTom expect to be generating significant amounts of cash in excess of its investment needs in the future, or is it likely to require additional external capital in the future?* [@book, p.576]
+
+### Exercise 17.14
+
+*In 1999 Chrysler had close to \$10 billion in cash on its balance sheet invested in short-term securities. Kerkorian, Chrysler's largest shareholder, wanted Chrysler to use the cash to buy bacj shares. At the very least, Kerkorian thought that the cash, which yoelded about 4 per cent, should be used to repurchase the company's outstanding bonds, which yielded 7 per cent. How can you justify holding cash yielding 4 per cent when the firm has bonds that can be retired that yield 7 per cent?* [@book, p.576]
+
+### Exercise 17.15
+
+*Explain why grocery store prices tended to increase in markets where one or more of the main competitors initiated an LBO. (Hint: think of market share as an investment.)* [@book, p.576]
+
+### Exercise 17.16
+
+*Over the past 20 years, the transaction costs associated with issuing and repurchasing debt and equity securities have declined. What effect do you yhink this change has had on capital structure choices?* [@book, p.576]

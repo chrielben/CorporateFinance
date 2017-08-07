@@ -1,0 +1,214 @@
+# Hillier & Grinblatt: Chapter 9: Discounting and Valuation
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 9.1
+
+*Let $PV$ be the present value of a growing perpetuity (the 'time 1 perpetuity') with an initial payment of C beginning one period from now and a growth rate of $g$. If we move all the cash flows back in time one period, the present value becomes $PV\times\left(1+r\right)$. Note that this is the present value of a growing perpetuity with an initial payment of C beginning today (the 'time 0 perpetuity').* [@book, p.306]
+
+a. *How do the cash flows of the time 1 perpetuity compare with those of the time 0 perpetuity from time 1 on?* [@book, p.306]
+
+b. *How do the present values of the cash flows discussed in part a compare with each other?* [@book, p.306]
+
+c. *How do the cash flows (and present values) for the two perpetuities described in part a compare?* [@book, p.306]
+
+d. *Write out a different value for the present value of the time 0 perpetuity in relation to the value of time 1 perpetuity, based on your analysis in parts b and c.* [@book, p.306]
+
+e. *Solve for $PV$ from the equation below:* [@book, p.306]
+$$PV\times\left(1+r\right)=value \ from  \ part \ d$$
+
+### Exercise 9.2
+
+*How long will it take your money to double at an annualized interest rate of 8 per cent compounded semi-annually? How does your answer change if the interest rate is compunded annually?* [@book, p.306]
+
+### Exercise 9.3
+
+*A 25-year fixed-rate mortgage has monthly payments of £717 per month and a mortgage interest rate of 6.14 per cent per year compounded monthly. If a buyer purchases a home with the cash proceeds of the mortgage loan plus an additional 20 per cent deposit, what is the purchase price of the home?* [@book, p.307]
+
+### Exercise 9.4
+
+*What is the annualized interest rate, compounded daily, that is equivalent to 10 per cent interest compounded semi-annually? What is the daily compounded rate that is equivalent to 10 per cent compounded continously?* [@book, p.307]
+
+### Exercise 9.5
+
+*A woman who has just turned 24 wants to save for her retirement through a defined benefitt employee pension scheme. She plans to retire on her 60th birthday, of £2,000 (after taxes) until she dies.* [@book, p.307]
+
+* *Sha has budgeted conservatively, assuming that she dies at age 85.* [@book, p.307]
+
+* *Assume that, until she reaches age 60, the pension scheme earns 8 per cent interest, compounded annually, which accumulates tax free.* [@book, p.307]
+
+* *At age 60, assume that the interest accumulated in the pension pays a lump sum taxes at a rate of 30 per cent.* [@book, p.307]
+
+* *Thereafter, assume that the investor is in a 0 per cent tax bracket and that the interest on her account earns 7 per cent interest, compounded monthly.* [@book, p.307]
+
+*How much should the investor deposit annually in her pension, beginning on her 24th birthday and ending on her 60th birthday, to finance her retirement?* [@book, p.307]
+
+### Exercise 9.6
+
+*If $r$ is the annually compounded interest rate, what is the present valuje of a deferred perpetuity with annual payments of C beginning $t$ years from now?* [@book, p.307]
+
+### Exercise 9.7
+
+*An investor is comparing a 25-year fixed-rate mortgage with a 15-year fixed-rate mortgage. The 15-year mortgage has a considerably lower interest rate. If the annualized interest rate on the 25-year mortgage is 8 per cent, compounded monthly, what rate, compounded monthly on the 15-year mortgage, offers the same monthly payments?* [@book, p.307]
+
+### Exercise 9.8
+
+*Graph the relation between the annually compounded interest rate and the present value of a zero-coupon bond paying €100 five years from today. Graph the relation between present value and years to maturity of a zero-coupon bond with an interest rate of 8 per cent compounded annually.* [@book, p.307]
+
+### Exercise 9.9
+
+*The value of a share of stock is the present value of its future dividends. If the next dividend, occuring one year from now €2 per share, and dividends, paid annually, are expected to grow at 3 per cent per year, what is the value of a share if the discount rate is 7 per cent?* [@book, p.307]
+
+### Exercise 9.10
+
+*A 24-year-old employee, who expected to work another 41 years, is injured in a plant accident and will never work again. His wages next year will be €40,000. A study of wages across the plant found that every additional year of seniority tends to add 1 per cent to the wages of a worker, other things held constant. Assuming a nominal discount rate of 10 per cent and an expected rate of inflation of 4 per cent per year over the next 40 year, what lump sum compensation should this worker receive for the lost wages due to the injury?* [@book, p.307]
+
+### Exercise 9.11
+
+*Iain invests £1,000 in a simple interest account. Thirty months later, he finds the account has accumulated to £1,212.50.* [@book, p.307]
+
+a. *Compute the annualized simple interest rate.* [@book, p.307]
+
+b. *Compute the equivalent annualized rate compounded (1) annually, (2) semi-annually, (3) quarterly, (4) monthly, and (5) continuously.* [@book, p.307]
+
+c. *Which rate in part b is largest? Why?* [@book, p.307]
+
+### Exercise 9.12
+
+*A nine-month T-bill with a face value of €100 currently sells for €96. Calculate the annualized simple interest rate.* [@book, p.307]
+
+### Exercise 9.13
+
+*Which of the following rates would you prefer: 8.50 per cent compounded annually, 8.33 per cent compounded semi-annually, 8.25 per cent compounded quarterly, or 8.16 per cent compounded continously? Why?* [@book, p.307]
+
+### Exercise 9.14
+
+*The treasurer of Small Corp. is considering the purchase of a T-bill maturing in seven months. At a rate of 9 per cent compounded annually:* [@book, p.308]
+
+a. *Calculate the present value of the \$10,000 face value T-bill.* [@book, p.308]
+
+b. *If you wanted to purchase a seven-month T-bill 30 months from now, what amount must you deposit today?* [@book, p.308]
+
+### Exercise 9.15
+
+*Helix, a third-year graduate student, is considering a delivery programme for a local grocery store earn extra money for his studies. His idea is to buy a used car and deliver groceries after university and at weekends. He estimates the following revenues and expenses:* [@book, p.308]
+
+* *start-up costs of £1,000 for the car and minor repairs* [@book, p.308]
+
+* *weekly revenue of about £150* [@book, p.308]
+
+* *ongoing maintenance and fuel costs of about £45 per week* [@book, p.308]
+
+* *after nine months, replacement of the brake pads on the car for about £350* [@book, p.308]
+
+* *sale of the car at year-end for about £450* [@book, p.308]
+
+*What is the difference between the PV of the venture (assuming a rate of 6 per cent compounded annually) and its start-up costs?* [@book, p.308]
+
+### Exercise 9.16
+
+*Consider a prespective project with the following future cash inflows: R9,000 at the end of year 1, R9,500 at the end of 15 months, R10,500 at the end of 30 months and R11,500 at the end of 38 months.* [@book, p.308]
+
+a. *What is the PV of these cash flows at 7.5 per cent compounded annually?* [@book, p.308]
+
+b. *How does the PV change if the discount rate is 7.5 per cent compounded semi-annually?* [@book, p.308]
+
+### Exercise 9.17
+
+*If the future value of £10,000 today is £13,328, and the interest rate is 9 per cent compounded annually:* [@book, p.308]
+
+a. *What is the holding period $t$ (in years)?* [@book, p.308]
+
+b. *How does $t$ change if the interest rate is 9 per cent compounded semi-annually?* [@book, p.308]
+
+c. *How does $t$ change if the interest rate is 11 per cent compounded annually?* [@book, p.308]
+
+### Exercise 9.18
+
+*You have just won the Lottery! As the winner, you have a choice of three pay-off programmes (assume the interest rate is 9 per cent compounded annually): (1) a lump sum today of £350,000 plus a lump sum of ten years from now of £25,000; (2) a 20-year annuity of £42,500 beginning next year; and (3) a £35,000 sum each year beginning next year paid to you and your descendants (assume your family line will never die out).* [@book, p.308]
+
+a. *Which choice is the most favourable?* [@book, p.308]
+
+b. *How would your answer change if the interest assumption changes to 10 per cent?* [@book, p.308]
+
+c. *How would your answer change if the interest assumption changes to 11 per cent?* [@book, p.308]
+
+### Exercise 9.19
+
+*You need to insure your home over the next 20 years. You can either pay beginning-og-year premiums with today's premium of €5,000 and future premiums growing at 4 per cent per year, or prepay a lump sum of €67,500 for the entire 20 years of coverage.* [@book, p.308]
+
+a. *With a 9 per cent compounded annually, which of the two choices would you prefer?* [@book, p.308]
+
+b. *How would your answer change if the rate were 10 per cent compounded annually?* [@book, p.308]
+
+c. *What is happening to the PV of the annuity as $r$ increases?* [@book, p.308]
+
+### Exercise 9.20
+
+*Your rich uncle recently passed away and has left you an inheritance in the forn of a varying perpetuity. You will receive £2,000 per year from year 3 to year 14, £5,000 per year from year 15 to year 22, and £3,000 per year thereafter. At a rate of 7 per cent compounded annually, what is the PV at the start of year 1 of your uncle's generousity?* [@book, p.308]
+
+### Exercise 9.21
+
+*You have just had a baby boy (congratulations!) and you want to ensure the funding of his college education. Tuition today costs £7,000, and is growing at 4 per cent per year. In 18 years, your son will enter a three-year undergraduate programme with tuition payments at the beginning of each year.* [@book, p.308]
+
+a. *At the rate of 7 per cent compounded annually, how much must you deposit today just to cover tuition expenses?* [@book, p.308]
+
+b. *What amount must you save at the end of each year over the next 18 years to cover these expenses?* [@book, p.308]
+
+### Exercise 9.22
+
+*Your financial planner has adviced you to intitiate a retirement account while you are still young. Today is your 35th birthday, and you are planning to retire at age 65. Actuarial tables show that individuals in your age group hae a life expextancy of about 75 (you obviously don't come from Glasgow!). If you want a £50,000 annuity beginning on your 66th birthday, which will grow at a rate of 4 per cent per year for ten years:* [@book, p.309]
+
+a. *What amount must you deposit at the end of each year through age 65 at a rate of 8 per cent compounded annually to fund your retirement account?* [@book, p.309]
+
+b. *How would your answer change if the rate is 9 per cent?* [@book, p.309]
+
+c. *After you have paid your last installment on your 65th birthday, you learn that medical advances have shifted actuarial tables so that you are now expected to live to age 85. Determine the base-year annuity payment supportable under the 4 per cent growth plan with a 9 per cent interest rate.* [@book, p.309]
+
+### Exercise 9.23
+
+*You are considering a new business venture, and want to determine the present value of seasonal cash flows. Historical data suggest that quarterly flows will be €3,000 in quarter 1, €4,000 in quarter 2, €5,000 in quarter 3, and €6,000 quarter 4. The annualized rate is 10 per cent, compounded annually.* [@book, p.309]
+
+a. *What is the PV if this quarterly pattern will continue into the future (that is, for ever)?* [@book, p.309]
+
+b. *How would your answer change if same quarter growth is 1 per cent per year in perpetuity?* [@book, p.309]
+
+c. *How would your answer change if this 1 per cent growth lasts only 10 years?* [@book, p.309]
+
+### Exercise 9.24
+
+*Assume a homeowner takes on a 30-year,£100,000 floating-rate mortgage with monthly payments. Assume that the floating rate is 7.0 per cent at the inflation of the mortgage, 7.125 per cent is the reset rate at the end of the first month, and 7.25 per cent is the reset rate at the end of the second month. What are the first, second and third mortgage payments, respectively, made at the end of the first, second and third months? What is the breakdown between principal and interest for each of the first three payments? What is the principal balance at the end of the first, second and third months?* [@book, p.309]
+
+### Exercise 9.25
+
+*The Allied Corporation typically allocates expenses for CEO pay to each of its existing projects, with the percentage allocation based on the percentage of book assets that each project represents. Super-secret Project X, under consideration, will, if adopted, constitute 10 per cent of the company's book assets. As the CEO's salary amounts to £1 million per year, super-secret Project X will be allocated £100,000 in expenses. Does this £100,000 represent a reduction in the unlevered cash flows generated by your secret Project X?* [@book, p.309]
+
+### Exercise 9.26
+
+*Assume that the analyst who developed Exhibit 9.1 simply forgot about inflation. Redo Exhibit 9.1 assuming 2 per cent inflation per year and 2 per cent growth due to inflation in EBITDA, in column (c). Show how columns (a)-(g) change, and explain why column (b) does not change.* [@book, p.309]
+
+### Exercise 9.27
+
+*Find the present value of the MRI's unlevered cash flows for the revised exhibit you contructed in exercise 9.26. Assume a discount rate of 10 per cent.* [@book, p.309]
+
+### Exercise 9.28
+
+*Using the assumptions of exercise 9.26, provide indflation-adjusted figures for Exhibit 9.1.* [@book, p.309]
+
+a. *Compute the real discount rate if the nominal discount rate is 10 per cent.* [@book, p.309]
+
+b. *Discount the inflation-adjusted unlevered cash flows of the MRI at the real discount rate to obtain their present value.* [@book, p.309]
+
+### Exercise 9.29
+
+*Compute TomTom's unlevered cash flow from its most recent financial statements. TomTom is a Dutch manufacturer of satelite navigation systems ([www.tomtom.com](http://www.tomtom.com)).* [@book, p.309]

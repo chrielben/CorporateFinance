@@ -1,0 +1,67 @@
+# Hillier & Grinblatt: Chapter 22: The Practice of Hedging
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 22.1
+
+*Consider, again, National Nickel from Example 21.3 in Chapter 21. In addition to the forward contracts described in Example 21.3, National Nickel can also buy (put) options that give it the right to sell nickel in one, two or three years at an exercise price of £20 per pound of nickel. The one-year option costs £2.00, the two-year option £3.00, and the three-year option £3.50 per pound of nickel. What should National Nickel do to eliminate the possibility of financial distress and still have money to fund new exploration in the event that nickel prices increase?* [@book, p.751]
+
+### Exercise 22.2
+
+*AB Cable, Wire & Fibre plans to open up a new factory three years from now, at which point it plans to purchase 1 million pounds of copper. Assume zero-coupon risk-free yields are going to remain at a constant 5 per cent (annually compounded rate) for all investment horizons, there is no basis risk in forwards or futures, storage of copper is costless, markets are frictionless, and forward spot parity holds. Copper has a 3 per cent per year (annual compounded rate) convenience yield.* [@book, p.752]
+
+a. *What should the relative magnitude of the futures and forward prices for copper be, assuming the constracts are of the same maturity? How should futures and forward prices change with contract maturity?* [@book, p.752]
+
+b. *Assume that one-year forwards are the only hedging instruments available. How many pounds of copper in forwards should be acquired today to maximally hedge the risk of the copper purchase three years from now? How does the hedge ratio change over time? Provide institution and describe the rollover strategy at the forward maturity date.* [@book, p.752]
+
+c. *Assume that three-month futures are the only hedging instruments available. How many pounds of copper in futures can be acquired today to maximally hedge the risk of the copper purchase three years from now? How does the hedge ratio change over time? Provide institution and describe the rollover strategy at the futures maturity date.* [@book, p.752]
+
+### Exercise 22.3
+
+*Assume a two-factor model for next year's profits of BP. The factors are one-year futures prices for oil and one-year futures prices for the £/US\$ exchange rate. The relevant factor equation is* [@book, p.752]
+$$Profit_{BP}=GBP \ 1 \ billion+GBP \ 10 \ million \ \overset{\sim}{F}_{OIL}+GBP \ 20 \ million \ \overset{\sim}{F}_{GBP/USD}+\overset{\sim}{\varepsilon}_{BP}$$
+*Assume that each one-year oil futures contract purchased has the factor equation* [@book, p.752]
+$$\overset{\sim}{C}_{OIL}=GBP \ 10,000 \ \overset{\sim}{F}_{OIL}$$
+*Each one-year futures contract on the £/US\$ exchange rate has the factor equation* [@book, p.752]
+$$\overset{\sim}{C}_{GBP/USD}=GBP \ 100,000 \ \overset{\sim}{F}_{GBP/USD}$$
+*If BP wants to reduce its exposure to the two risk factors by half, how can it accomplish this by buying or selling futures contracts?* [@book, p.752]
+
+### Exercise 22.4
+
+*Assume that Fiat is planning to ezquire an automobile company in Sweden. The deal will probably be consummated within a year, provided that approval is granted by the regulatory authorities in Italy and Sweden. The two automakers have agreed upon the terms of the deal. Fiat will pay Skr100 billion once deal is consummated. Discuss the advantages and disadvantage of hedging the currency risk in this deal with forwards, options and swaps.* [@book, p.752]
+
+### Exercise 22.5
+
+*Assume that Natabrine, a drug manufacturer, has discovered that it is cheaper to manufacture one of its drugs in France than anywhere else. All revenues from the drug will be in the United Kingdom. The company estimates that the costs of manufacturing the drug will be €100 million per year, and that the factory has a life of 10 years. At the end of the 10 years, a baloon payment on the mortgage from the factory is due. Net of proceeds from salvage value, the company will have to pay €1 billion at the end of 10 years. How can the currency risk of this deal be eliminated with a currency swap?* [@book, p.752]
+
+### Exercise 22.6
+
+*Assume that Dell Computer, a worldwide manufacturer and mail-order retailer of personal computers, has estimated the following regression associated with its operations in Europe:* [@book, p.752]
+$${Euro \ profits}_t = USD \ 10 \ mil.+ USD \ 8 \ mil. \times \left(USD/EUR \ 1-year \ forward \ exchange \ rate\right)_t+\overset{\sim}{\varepsilon}_t$$
+a. *How should Dell Computer minimize variance associated with these European operations, using only forward contracts on the \$/€ exchange rate? Is your answer affected by whether the European operations are fixed or scaleable in size?* [@book, p.752]
+
+b. *Assuming that European profits are normally distributed, what is Dell's profitat risk at the 5 per cent significance level, assuming that the percentage change in the \$/€ exchange rate is normally distributed and has a volatility of 10 per cent? Ignore risk for this calculation.* [@book, p.753]
+
+### Exercise 22.7
+
+### Exercise 22.8
+
+### Exercise 22.9
+
+### Exercise 22.10
+
+### Exercise 22.11
+
+### Exercise 22.12
+
+### Exercise 22.13

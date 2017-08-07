@@ -1,0 +1,45 @@
+# Hillier & Grinblatt: Chapter 20: Mergers and Aquisitions
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 20.1
+
+*London Mitchell plc is currently selling for £25 a share, and pays a dividend of £2 a share per year. Analysts expect the earnings and dividends to grow at 4 per cent per year into the foreseeable future. The company has 1 million shares outstanding. Mark Mitchell, the CEO, would like to take the firm private in a leveraged buyout. Following the buyout, the firm is expected to cut operating costs, which will result in a 10 per cent improvement in earnings. In addition, the firm will cut administrative fixed costs by £200,000 per year and save £500,000 per year on taxes for the next 10 years. Assuming that the risk-free interest rate is 5 per cent, and that London Mitchell following the LBO?* [@book, p.678]
+
+### Exercise 20.2
+
+*Refer to exercise 20.1. Explain why Mark Mitchell is likely to make these changes following n LBO, but would not make the changes in the absence of an LBO.* [@book, p.678]
+
+### Exercise 20.3
+
+*What type of firm would you prefer to work for: a diversified firm or a very focused firm? What does your answer to this question tell you about one of the advantages or disadvantages of diversification?* [@book, p.678]
+
+### Exercise 20.4
+
+*Diversified Industries plc has made a bid to purchase Cigmatics plc, offering to exchange two Diversified shares for one share of Cigmatics. When this bid is annouced, Diversified Idustries' shares drop 5 per cent. The CEO has asked you to interpretwhat this decline in share prices means. Does it imply that Cigmatics is a bad aquisition?* [@book, p.678]
+
+### Exercise 20.5
+
+*Leveraged buyouts are observed mainly in industries with relatively stable cash flows and products that are not highly specialized. Explain why?* [@book, p.678]
+
+### Exercise 20.6
+
+*When a farm with an extremely high price/earnings ratio purchases a firm with a very low price/earnings ratio in an exchange of equity, its earningsper share will increase. Do you think firms are more likely to ecquire other firms when it results in an increse in their earnings per share? Is it beneficial to shareholders to initiate a takeover for these reasons?* [@book, p.678]
+
+### Exercise 20.7
+
+*Tobacco companies have a large potential liability. In the future, they may be subject to extremely large product liability lawsuits. Discuss how this affects the incentives of tobacco companies to merge with food companies.* [@book, p.678]
+
+### Exercise 20.8
+
+*One of the stated benefits of a management buyout is the improvement in management incentives. In many cases, however, the top managers do not change after the buyout. Explain why.* [@book, p.678]

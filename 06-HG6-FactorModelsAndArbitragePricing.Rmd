@@ -1,0 +1,104 @@
+# Hillier & Grinblatt: Chapter 6: Factor Models and the Arbitrage Pricing Theory
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 6.1
+
+*Prove that the portfolio-weighted average of a security's sensitivity to a particular factor is the same as the covariance between the return of the portfolio and the factor divided by the variance of the factor if the factors are uncorrelated with each other. Do this with the following setps:* [@book, p.197]
+
+1. *Write out the factor equation for the portfolio by multiplying the factor equationsof the individual securities by the portfolio weights and adding.* [@book, p.198]
+
+2. *Group terms that multiply the same factor.* [@book, p.198]
+
+3. *Replace the factor betas of the individual security returns by the covariance of the security return with the factor divided by the variance of the factor.* [@book, p.198]
+
+4. *Show that the portfolio-weighted average of the covariances that multiply each factor is the portfolio return's covariance with the factor.* [@book, p.198]
+
+*The rest is easy.* [@book, p.198]
+
+### Exercise 6.2
+
+*What is the minimum number of factors needed to explain the expected returns of a group of ten securities if the securities returns have no firm-specific risk? Why?* [@book, p.198]
+
+### Exercise 6.3
+
+*Consider the following two-factor model for the returns of three securities. Assume that the factors and epsilons have means of zero. Also, assume the factors have variances of 0.01 and are uncorrelated with each other.* [@book, p.198]
+$$\overset{\sim}{r}_A=0.13+6\overset{\sim}{F}_1+4\overset{\sim}{F}_2+\overset{\sim}{\varepsilon}_A$$
+$$\overset{\sim}{r}_B=0.15+2\overset{\sim}{F}_1+\overset{\sim}{F}_2+\overset{\sim}{\varepsilon}_B$$
+$$\overset{\sim}{r}_C=0.07+5\overset{\sim}{F}_1-1\overset{\sim}{F}_2+\overset{\sim}{\varepsilon}_C$$
+*If $var\left(\overset{\sim}{\varepsilon}_A\right)=0.01$ $var\left(\overset{\sim}{\varepsilon}_B\right)=0.4$ $\left(\overset{\sim}{\epsilon}_C\right)=0.02$, what are the variances of the returns of the three securities, as well as the covariances and correlations between them?* [@book, p.198]
+
+### Exercise 6.4
+
+*What are the expected returns of the three securities in exercise 6.3?* [@book, p.198]
+
+### Exercise 6.5
+
+*Write out the factor beta, factor equations and expected returns of the following portfolios.* [@book, p.198]
+
+1. *A portfolio of the three equities in exercise 6.3 with £20,000 invested in A, £20,000 invested in B and £10,000 invested in C.* [@book, p.198]
+
+2. *A portfolio consisting of the portfolio formed in part 1 of this exercise and £3,000 short position in C of exercise 6.3.* [@book, p.198]
+
+### Exercise 6.6
+
+*How much should be invested in each of the equities in exercise 6.3 to design two portfolios? The first portfolio has the following attributes:* [@book, p.198]
+
+* *factor 1 beta = 1* [@book, p.198]
+
+* *factor 2 beta = 0* [@book, p.198]
+
+*The second portfolio has the attributes:* [@book, p.198]
+
+* *factor 1 beta = 0* [@book, p.198]
+
+* *factor 2 beta = 1* [@book, p.198]
+
+*Compute the expected returns of these two portfolios. Then compute the risk premiums of these two portfolios assuming that the risk-free rate is the 'zero-beta rate' implied by the factor equations for the three equities in exercise 6.3. This is the expected return of a portfolio with factor betas of zero.* [@book, p.198]
+
+### Exercise 6.7
+
+*Two equities, Uni and Due, have returns that follow the one-factor model:* [@book, p.198]
+$$\overset{\sim}{r}_{uni}=0.11+2\overset{\sim}{F}+\overset{\sim}{\varepsilon}_{uni}$$
+$$\overset{\sim}{r}_{due}=0.17+5\overset{\sim}{F}+\overset{\sim}{\varepsilon}_{due}$$
+*How much should be invested in each of the two equities to design a portfolio that has a factor beta of 3? What is the expected return of this portfolio, assuming that the factors and epsilons have means of zero?* [@book, p.198]
+
+### Exercise 6.8
+
+*Describe how you might design a portfolio of the 40 largest equities that mimic the FTSE 100. Why might you prefer to do this instead of investing in all 100 of the FTSE 100 companies?* [@book, p.198]
+
+### Exercise 6.9
+
+*Prove that $\alpha_i=\left(1-\beta_i\right) r_f$ in equation (6.3), assuming the CAPM holds. To do this, take expected values of both sides of this equation and match up the values with those of the equation for the CAPM's securities market line.* [@book, p.198]
+
+### Exercise 6.10
+
+*Compute the firm-specific variance and firm-specific standard deviation of a portfolio that minimizes the firm-specific variance of 20 securities. The first 10 securities have firm-specific variances of 0.10. The second 10 securities have firm-specific variances of 0.05.* [@book, p.199]
+
+### Exercise 6.11
+
+*Find the weights of the two pure factor portfolios constructed from the following three securities:* [@book, p.199]
+$$r_1=0.06+2\overset{\sim}{F}_1+2\overset{\sim}{F}_2$$
+$$r_2=0.05+3\overset{\sim}{F}_1+1\overset{\sim}{F}_2$$
+$$r_3=0.04+3\overset{\sim}{F}_1+0\overset{\sim}{F}_2$$
+*Then write out the factor equations for the two pure factor portfolios, and determine their risk premiums. Assume a risk-free rate htat is implied by the factor equations and no arbitrage.* [@book, p.199]
+
+### Exercise 6.12
+
+*Assume the factor model in exercise 6.11 applies again. If there exists an additional asset with the following factor equation:* [@book, p.199]
+$$r_4=0.08+1\overset{\sim}{F}_1+0\overset{\sim}{F}_2$$
+*does an arbitrage opportunity exists? If so, describe how you would take advantage of it.* [@book, p.199]
+
+### Exercise 6.13
+
+*Use the information provided in Example 6.10 to determine the coordinates of the intersection of the solid and dotted lines in Exhibit 6.7.* [@book, p.199]

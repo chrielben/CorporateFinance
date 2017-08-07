@@ -1,0 +1,91 @@
+# Hillier & Grinblatt: Chapter 8: Options
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 8.1
+
+*You hold an American call option with a £30 strike price on an equity that sells at £35. The option sells for £5 one year before expiration. Compare the cash flows at espiration from: (1) exercising the option now, and putting the £5 proceeds in a bank account until the expiration date; and (2) holding on to the option until expiration, selling short the equity, and placing the £35 you receive into the same bank account.* [@book, p.271]
+
+### Exercise 8.2
+
+*Combine the Black-Scholes formula with the put-call parity formula to derive the Black Scholes formula for European puts.* [@book, p.271]
+
+### Exercise 8.3
+
+*HSBC Holdings equity has a volatility of $\sigma=0.25$ and a price of £9.25 a share. A European call option on HSBC stock with a strike price of £10 and an expiration time of one year has a price of £1. Using the Black-Scholes model, describe how you would construct an arbitrage portfolio, assuming that the present value of the strike price is £9.43. Would the arbitrage portfolio increase or decrease its position in HSBC if shortly thereafter the share price of HSBC rose to £9.30 a share?* [@book, p.271]
+
+### Exercise 8.4
+
+*Take the partial derivative of the Black-Scholes value of a call option with respect to the underlying security's price $S_0$. Show that this derivative is positive and equal to $N\left(d_1\right)$. Hint: first show that $S_0N'\left(d_1\right)-PV\left(K\right)N'\left(d_1-\sigma\sqrt{T}\right)$ equals zero by using the fact that the derivative of $N$ with respect to $d_1$, $N'\left(d_1\right)$, equals $1/\sqrt{2\pi}\left[exp^{\left(-0.5d_1^2\right)}\right]$.* [@book, p.271]
+
+### Exercise 8.5
+
+*Take the partial derivative of the Black-Scholes value of a call option with respect to the violatility parameter. Show that this derivative is positive and equal to $S_0\sqrt{T}N'\left(d_1\right)$.* [@book, p.271]
+
+### Exercise 8.6
+
+*If $PV\left(K\right)=K/\left[\left(1+r\right)^T\right]$, take the partial derivative of the Black-Scholes value of a call option with respect to the interest rate $r_f$. Show that this derivative is positive and equal to $T\times PV\left(L\right)N\left(d_1-\sigma\sqrt{T}\right)/\left(1+r_f\right)$.* [@book, p.271] 
+
+### Exercise 8.7
+
+*Suppose you observe a European call option on an asset that is priced at less than the value of $S_0-PV\left(K\right)-PV\left(div\right)$. What type of transaction should you execute to achieve arbitrage? (be specific with respect to amounts, and avoid using puts in this arbitrage.)* [@book, p.271]
+
+### Exercise 8.8
+
+*Consider a position of two purchased calls (BASF, three moths, K = €96) and one written put (BASF, three moths, K = €96). What position in BASF equity will show the same sensitivity to price changes in BASF equity as the option position described above? Express your answer algebraically as a funciton of $d_1$ from the Black-Scholes model.* [@book, p.271]
+
+### Exercise 8.9
+
+*The present price of an equity share of Strategy AB is €50. The equity follows a binomial process where each period the share price either goes up 10 per cent or down 10 per cent. Compute the fair market value of an American put option on Strategy AB equity with a strike price of €50 and two periods to expiration. Assume Strategy AB pays no dividend over the next two periods. The risk-free rate is 2 per cent per period.* [@book, p.271]
+
+### Exercise 8.10
+
+*Steady plc has a share value of £50. At-the-money American call options on Steady plc with nine months to expiration are trading at £3. Sure plc also has a share value of £50. At-the-money American call options on Sure plc with nine months to expiration are trading at £3. Suddenly, a merger is announced. Each share in bothcorporations is exchanged for one share in the combined corporation, 'Sure & Steady'. After the merger, options formerly on one share of either Sure plc or Steady plc were converted to options on one share of Sure & Steady. The only change is the difference in the underlying asset. Analyse the likely impact of the merger on the values of the two options before and after the merger. Extend this analysis to the effect of mergers on the equity of firms with debt financing.* [@book, p.271]
+
+### Exercise 8.11
+
+*FSA is a privately held firm. As an analyst trying to determine the value of FSA's ordinary equity and bonds, you have estimated the market value of the firm's asset to be €1 million and the standard deivation of the asset return to be 0.3. The debt of FSA, which consists of zero-coupon bank loans, will come due one year from now at its face value of €1 million . Assuming that the risk-free rate is 5 per cent, use the Black-Scholes model to estimate the value of the firm's equity and debt.* [@book, p.272]
+
+### Exercise 8.12
+
+*Describe what happens to the amount of equity held in the tracking portfolio for a call (put) as the share price goes up (down). Hint: prove this by looking at delta.* [@book, p.272]
+
+### Exercise 8.13
+
+*Callable bonds appear to have market values that are determined as though the issuing corporation optimically exercises the call option implicit in the bond. You know, however, that these options tend to get exercised past the optimal point. Write up a non-technical presentation for your boss, the portfolio manager, explaining why arbitrage exists, and how to take advantage of it with this investment opportunity.* [@book, p.272]
+
+### Exercise 8.14
+
+*The following tree diagram outlines the share price of a company over the next two periods:* [@book, p.272]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+*The risk-free rate is 12 per cent from date 0 to date 1, and 15 per cent from date 1 to date 2. A European call on this equity (1) expires in period 2, and (2) has a strike price of £8.* [@book, p.272]
+
+a. *Calculate the risk-neutral probabilities implied by the binominial tree.* [@book, p.272]
+
+b. *Calculate the pay-offs of the call option at each of three nodes at date 2.* [@book, p.272]
+
+c. *Compute the value of the call at date 0.* [@book, p.272]
+
+### Exercise 8.15
+
+*A non-dividend-paying equity has a current price of £30 and a volatility of 20 per cent per year.* [@book, p.272]
+
+a. *Use the Black-Scholes equation to value a European call option on the equity above with a strike price that has a present value of £28 and time to maturity of three months.* [@book, p.272]
+
+b. *Without performing calculations, state whether this price would be higher if the call were American. Why?* [@book, p.272]
+
+c. *Suppose the equity pays dividends. Are otherwise identical American and European options likely to have the same value? Why?* [@book, p.272]

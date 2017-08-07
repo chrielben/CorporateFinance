@@ -1,0 +1,124 @@
+# Hillier & Grinblatt: Chapter 7: Pricing Derivatives
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 7.1
+
+*Using risk-neutral valuation, derive a formula for a derivative that pays csah flows over the next two periods. Assume the risk-free rate is 4 per cent per period.* [@book, p.233] <br />
+*The underlying asset, which pays no cash flows unless it is sold, has a market value that is modelled in the following tree diagram:* [@book, p.233]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+*The cash flows of the derivative that correspond to the above tree diagram are:* [@book, p.233]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+*Find the present value of the derivate.* [@book, p.233]
+
+### Exercise 7.2
+
+*A convertible bond can be converted into a specified number of shares at the option of the bondholder. Assume that a convertible bond can be converted to 1.5 share. A single share of this equity has a price that follows the bionomial process:* [@book, p.234]
+
+*Date 0* [@book, p.233]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+*The equity does not pay a dividend between dates 0 and 1.* [@book, p.234]
+
+*If the bondholder never converts the bond to equity, the bond has a date 1 pay-off of $£100 + x$, where $x$ is the coupon of the bond. The conversion to equity may take place either at date 0 or at date 1 (in the latter case, upon revelation of the date 1 share price).* [@book, p.234]
+
+*The convertible bond is issued at date 0 for £100. What should $x$, the equilibrium couponof the convertible bond per £100 at face value, be if the risk-free return is 15 per cent per period and there are no taxes, transaction costs or arbitrage opportunities? Does the corporation save on interest payments if it issues a convertible bond in lieu of a straight bond? If so, why?* [@book, p.234]
+
+### Exercise 7.3
+
+*Value a risky corporate bond, assuming that the risk-free interest is 4 per cent per period where a period is defined as six months. The corporate bond has a face value of €100 payable two periods from now, and pays a 5 per cent coupon per period: that is, interest payments of €5 at the end of both the first and the second period.* [@book, p.234]
+
+*The corporate bond is a derivative of the assets of the issuing firm. Assume that the assets generate sufficient cash to pay off the promised coupon one period from now. In particular the corporation has set aside a reserve fund of €5/1.04 per bond to pay off the promised coupon one period from now. Two periods from now, there are three possible states. In one of those states, the assets of the firm are not worth much and the firm defaults, unable to generate a sufficient amount of cash. Only €50 of the €105 promised payment is made on the bond on this state.* [@book, p.234]
+
+*The exhibit below describes the value of the firm's assets per bond (less the amount in hte reserve fund maintained for the intermediate coupon) and the cash pay-offs of the bond. The non-reserved assets of the firm are currently worth €100 per bond. At the U and D nodes the reserve fund has been depleted, and the remaining assets of the firm per bond are worth €120 and €90, respectively while they are worth €300, €110 and €50, respectively, in the UU, UD and DD states two periods from now.* [@book, p.234]
+
+*Paths for (a) the Value of the Firm's Assets Per Bond (Above the Node); and (b) Cash Pay-offs of a Risky Bond (Below the Node); in a Two-Binominal Tree Diagram.* [@book, p.234]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+### Exercise 7.4
+
+*In many Instances, whether a cash flow occurs early or not is a decision of the issuer or holder of the derivative. One example of this is a callable bond, which is a bond that the issuing firm can buy back at the pre-specified call price. Valuing a callable bond is complicated, because the underlying security. In these cases, it is nessary to compare the value obtained from cash by calling the bond orprematurely exercising the call option. To solve these problems, you must work backwards in the binomial tree to make the appropriate comparisons and find the nodes in the tree where intermediate cash flows occur.* [@book, p.235]
+
+*Suppose that, in the absense of a call, a callable corporate bond with a call price of €100 plus accrued interest has cash flows identical to those of the bond in exercise 7.3. (In this case, accrued interest is the €5 coupon if it is called cum-coupon at the intermediate date, and 0 if it is called ex-coupon.) What is the optimal call policy of the issuing firm, assuming that the firm is trying to maximize shareholder wealth? What is the value of the callable bond? Hint: keep in mind that maximizing shareholder wealth is the same as minimizing the value of the bond.* [@book, p.235]
+
+### Exercise 7.5
+
+*Consider an equity that can appreciate by 50 per cent or depreciate by 50 per cent per period. Three periods from now, an equity with an initial value of £32 per share can be worth (1) £108 - three moves up; (2) £36 - two up moves, one down move; (3) £12 - one up move, two down moves; or (4) £4 - three down moves. Three periodsfrom now, a derivative is worth £78 in case (1), £4 in case (2), £0 otherwise. If the risk-free rate is 10 per cent throughout thesethree peiods, describe a  portfolio of the equity and a risk-free bond that tracks the pay-off of the accompanying exhitbit, which illustrates the price paths of the equity and the derivative. Hint: you need to work backwards. Use the risk-neutral valuation method to check your work* [@book, p.235]
+
+*Three-Period Binominal Tree Diagram: (a) Underlying Security's Price (Above Node); (b) Derivative's Price (Below Node)* [@book, p.235]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+### Exercise 7.6
+
+*Consider a forward contract on Tesco plc requiring purchase of one share of Tesco equity for £4.90 in six months. Six-month zero-coupon bonds are selling for £98 per £100 of face value.* [@book, p.235]
+
+a. * If the forward is selling for £0.25, is there an arbitrage opportunity? If so, describe exactly how you could take advantage of it.* [@book, p.236]
+
+b. *Assume that, three months from now. (i) the share price has risen to £4.80 and (ii) three-month zero-cpupon bonds are selling for £99. How much has the fair market value of your forward contract changed over the three months that have elapsed?* [@book, p.236] 
+
+### Exercise 7.7
+
+*Assume that forward contracts to purchase one share of Kingfisher plc and Reuters plc for £2.00 and £7.00, respectively, in one year are currently selling for £0.25 and £0.45. Assume that neither company pays a dividend over the coming year, and that one-year zero-coupon bonds are selling for £96 per £100 of face value. The current share prices of Kingfaisher and Reuters are £1.87 and £6.60, respectively.* [@book, p.236]
+
+a. *Are there any arbitrage opportunities? If so, describe how to take advantage of them.* [@book, p.236]
+
+b. *What is the fair market price of a forward contract on a portfolio composed of one-half og Kingfisher and one-half Reuters, requiring that £4.50 be paid for the portfolio in one year?* [@book, p.236]
+
+c. *In this the same as buying one-half of a forward contract on each of Kingfisher and Reuters? Why or why not? (Show pay-off tables.)* [@book, p.236]
+
+d. *Is it generally true that a forward on a portfolio is the same as a portfolio of forwards? Explain.* [@book, p.236]
+
+### Exercise 7.8
+
+*Assume that the one-year Eurodollar (12-month LIBOR for US$) rate is 5.27 per cent and the Eurosterling rate (12-month LIBOR for the UK £) is 4.28 per cent. What is the theoretical 12 month forward \$/£ exchange rate if the current spot exchange rate is \$2.04/£?* [@book, p.236]
+
+### Exercise 7.9
+
+*Assume that share prices for EMC plc can appreciate by 15 per cent or depreciate by 10 per cent, and that the risk-free rate is 5 per cent over the next period. How much should you pay for a forward contract that will allow you to buy EMC for £23 if the value of EMC today is £22.75 and the actual probability of the up state occuring is 75 per cent* [@book, p.236] 
+
+### Exercise 7.10
+
+*A share price follows a binomial process for two periods. In each period, it either increases by 20 per cent or decreases by 20 per cent. Assuming that the equity pays no dividends, value a derivative that, at the end of the second period, pays £10 for every up move of the share price that occured over the previous two periods. Assume that the risk-free rate is 6 per cent per period.* [@book, p.236]
+
+### Exercise 7.11
+
+*An equity has a 30 per cent per year standard deviation of its log returns. If you are modelling the share price to value a derivative maturing in six months with eight binomial periods, what should $u$ and $d$ be?* [@book, p.236]
+
+### Exercise 7.12
+
+*Find the risk neutral probabilities and zero-cost date 0 forward prices (for settlement at date 1) for the equity in exercise 7.2. As in that exercise, assume a risk-free rate of 15 per cent per period.* [@book, p.236]
+
+### Exercise 7.13
+
+*A European 'Tootsie Square' is a financial contract that, at maturity, pays off the square of the price of the underlying asset on which it is written. For instance, if the price of the underlying asset is £3 at maturity, the Tootsie Squarre contract pays £9. Consider a two-period Tootsie Squarre written on Vodafone plc, which is currently trading at £1.795 per share. Each period of the price either rises 10 per cent or falls by 5 per cent (i.e. after one period, the share price of Vodafone can either rise to £1.9745 or fall to £1.7053). The probability of a rise is 0.5. The risk-free rate is 4 per cent per period.* [@book, p.236]
+
+a. *Determine the price at which you expect the Tootsie Square on Vodafone to trade.* [@book, p.236]
+
+b. *Suppose that you wanted to form a portfolio to track the pay-off on the Tootsie Square over the first period. How many shares of Vodafone should you hold in this portfolio?* [@book, p.236]

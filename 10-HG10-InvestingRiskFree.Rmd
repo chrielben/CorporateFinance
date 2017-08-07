@@ -1,0 +1,179 @@
+# Hillier & Grinblatt: Chapter 10: Investing in Risk-Free Projects
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 10.1
+
+*Your firm has recently reached an expansion phase and is sseking possible new geographic regions to market the newly patented chemical compound Glupto. The five regional projections are as follows:* [@book, p.338]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *Which countries would be profitable to the firm? Which of the five is the most profitable?* [@book, p.338]
+
+b. *If current budgeting can support €100 million expenditure in year 0, what combination of regions is optimal?* [@book, p.338]
+
+c. *Assume now that you can expand without regional saturation. With the budget constraint in part b, which region is optimal?* [@book, p.338]
+
+### Exercise 10.2
+
+*Consider the purchase of a new milling machine. What purchase price makes the NPV of the project zero? Base your analysis on the following facts.* [@book, p.338]
+
+* *The new milling machine will reduce operating expenses by exactly £20,000 per year for 10 years. Each of these cash flow reductions takes place at the end of the year.* [@book, p.338]
+
+* *The old milling machine is now 5 years old, and has a 10 years of scheduled life remaining.* [@book, p.338]
+
+* *The old milling machine was purchased for £45,000 and has a current market value of £20,000.* [@book, p.338]
+
+* *There are no taxes or inflation.* [@book, p.338]
+
+* *The risk-free rate is 6 per cent.* [@book, p.338]
+
+### Exercise 10.3
+
+*Exercises 10.3 - 10.6 make use of the following information.* [@book, p.338]
+
+*Your company is investigating a possible new project, Project X, which would affect corporate cash flow as follows:* [@book, p.338]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Respond to parts a to d.* [@book, p.339]
+
+a. *What are the incremental cash flows associated with undertaking Project X? Are these inflows outflows, costs or revenue?* [@book, p.339]
+
+b. *What is the PV of Project X under a flat term structure of 8 per cent, compounded annually, irrespective of maturity?* [@book, p.339]
+
+c. *Under these assumptions, what is the hurdle rate? Without further calculation, determine whether the IRR for Project X is higher or lower than the hurdle rate. (Hint: Use part b.)* [@book, p.339]
+
+d. *Why might a flat rate structure be unrealistic?* [@book, p.339]
+
+### Exercise 10.4
+
+*Exercises 10.3 - 10.6 make use of the following information.* [@book, p.338]
+
+*Your company is investigating a possible new project, Project X, which would affect corporate cash flow as follows:* [@book, p.338]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Describe the equivalent tracking portfolio for Project X, giving long and short positions and amounts, under a flat term structure of 8 per cent, compounded annually. Conceptually, why are we interested in tracking Project X's cash flows with a portfolio of marketable securities?* [@book, p.339]
+
+### Exercise 10.5
+
+*Exercises 10.3 - 10.6 make use of the following information.* [@book, p.338]
+
+*Your company is investigating a possible new project, Project X, which would affect corporate cash flow as follows:* [@book, p.338]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Let $B_t$ = price per €100 of face value of a zaro-coupon bond maturing at year $t$. Then, if $B_1=€94.00$, $B_2=€88.20$, $B_3=€81.50$, $B_4=€76.00$ adn $B_5=€73.00$, implying that the term structure of interest rates is no longer flat:* [@book, p.339]
+
+a. *Determine zero-coupon rates for years 1-5 to the nearest 0.01 per cent.* [@book, p.339]
+
+b. *Let's now reconsider the tracking portfolio in exercise 10.4; what is the cost or revenue associated with such a tracking portfolio at date 0 under the new term structure?* [@book, p.339]
+
+c. *What is the NPV of Project X under the new term structure?* [@book, p.339]
+
+d. *How are your asnwers to part b and c related?* [@book, p.339]
+
+### Exercise 10.6
+
+*Exercises 10.3 - 10.6 make use of the following information.* [@book, p.338]
+
+*Your company is investigating a possible new project, Project X, which would affect corporate cash flow as follows:* [@book, p.338]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Consider the cash flows associated with undertaking Project X.* [@book, p.339]
+
+a. *Is this an early or later cash flow stream?* [@book, p.339]
+
+b. *Based on the term structure of interest rates in exercise 10.5, what is the hurdle rate? What does such a hurdle rate represent?* [@book, p.339]
+
+c. *Calculate the IRR for Project X.* [@book, p.339]
+
+d. *Based on the hurdle rate calculated and a comparison with the IRR, should you undertake the project?* [@book, p.339]
+
+e. *If the sign of each cash flow were reversed, how would the hurdle rate and project IRR change? How would your decision change? Why?* [@book, p.339]
+
+### Exercise 10.7
+
+*As a regional managing director of Finco, an Italy-based investment company, your mandate is to scour Europe in search of promising investment opportunities, and to recommend one project to corporate headquarters in Milan. Your analysts have screened thousands of propective ventures, and have passed on the following four projects for your final review:* [@book, p.339]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *Calculate the NPV, hurdle rate and IRR for each project. Which project appears most promising?* [@book, p.340]
+
+b. *Determine NPVs using pairwise project comparisons to verify your decision from part a.* [@book, p.340]
+
+c. *How would your answer change if all projects could be scaled and you have a year 0 budget and constraint of €50 million? (Hint: Calculate profitability indexes.)* [@book, p.340]
+
+### Exercise 10.8
+
+*ABC Metalworks wants to determine which model sheetcutter to purchase. Three choices are available: machine 1 costs the least, but must be replaced the most frequently; machine 2 has average cost and average lifespan; machine 3 costs the most, but needs only infrequent replacement. Assume that all three machines meet production quality and volume standards; that annual maintenance is inversely proportional to the purchase price (that is, the cheaper machine requires higher maintenance); and that machine replacement, being instantaneous, will not disrupt production.* [@book, p.340]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *Under a flat discount rate assumption of 5 per cent per year, calculate the NPV for each machine.* [@book, p.340]
+
+b. *Which machine makes the most sense for cost-efficient production?* [@book, p.340]
+
+c. *How does your answer to part b change under a flat 6 per cent discount rate assumption? Why?* [@book, p.340]
+
+### Exercise 10.9
+
+*Investco, a South African research company, must decide on the level of computer technology it will buy for its analysis department. Package A, a mid-level technology, would cost R15 million for firmwide installation, whereas package B, a high-level technology, would cost R21 million Equipped with level A technology, the firm could generate a cash flow of R9 million for two years before the technology would require replacement; with level B technology, the firm could generate a cash flow of R10.2 million for three years, after which the technology would require replacement. Investco is interested in a six-year planning horizon. Assume the following about discount rates:* [@book, p.340]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *What is the nearest terminal date that is concurrent for both packages? What are the associated cash flows for each package or sequence of packages?* [@book, p.340]
+
+b. *What is the optimal decision, given that Investco's planning horizon?* [@book, p.340]
+
+c. *At approximately what alternative package B price would Investco be indifferent between the two packages?* [@book, p.340]
+
+## Exercises Appendix 10A
+
+### Exercise 10A.1
+
+*A zero-coupon bond maturing two years from now has a yield to maturity of 8 per cent (annual compounding). Another zero-coupon bond with the same maturity date has a yield to maturity of 10 per cent (annual compounding). Both bonds have a face value of $100.* [@book, p.340]
+
+a. *What are the prices of the zero-coupon bonds?* [@book, p.347]
+
+b. *Descrie the cash flows to a long position in the 10 per cent zero-coupon bond and a short position in the 8 per cent zero-coupon bond.* [@book, p.347]
+
+c. *Are the ccash flows in part b indicative of arbitrage?* [@book, p.347]
+
+d. *Suppose the 10 per cent bond matured in three years rather than two years. Is there arbitrage now?* [@book, p.347]
+
+### Exercise 10A.2
+
+*Compute annuity yields and par yields for years 1, 2 and 3 if spot yields for years 1, 2 and 3 are respectively, 4.5 per cent, 5 per cent and 5.25 per cent. Assume annual compounding for all rates and annual payments for all bonds.* [@book, p.347]
+
+### Exercise 10A.3
+
+*Compute spot yields and annuity yields for years 1, 2, 3 and 4 if par yields for years 1, 2, 3 and 4 are, respectively, 4.5 per cent, 5 per cent, 5.25 per cent and 5.25 per cent. Assume annual compounding for all rates and annual payments for all bonds.* [@book, p.347]

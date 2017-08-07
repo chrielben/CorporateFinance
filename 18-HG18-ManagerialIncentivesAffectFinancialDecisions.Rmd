@@ -1,0 +1,59 @@
+# Hillier & Grinblatt: Chapter 18: How Managerial Incentives Affect Financial Decisions
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 18.1
+
+*Discuss why managers might tend to want their organizations to grow.* [@book, p.609]
+
+### Exercise 18.2
+
+*Discuss the factors that determine whether firms are likely to have large ownership concentrations.* [@book, p.609]
+
+### Exercise 18.3
+
+*Jimmy Johnstone, the CEO of High Tech Industries, owns 51 per cent of the shares of his £50 million company. The firm is strating a new project that requires £25 million in new equity capital. Johnstone is considering two ways to fund the project. The first is to issue £25 million in new equity. The second is to form a partially owned subsidiary of High Tech, which would be called Super Tech, and have the subsidiary issue the equity. Under the second proposal, Super Tech would be 55 per cent owned by High Tech and 45 per cent owned by new shareholders. Describe how the incentives of the managers of the managersof the new business and Jimmy Johnstoneare likely to be affected by the two proposals.* [@book, p.609]
+
+### Exercise 18.4
+
+*Consider three similar firms that differ only in the extent to which they are controlled by their boards of directors. In firm 1, the board has complete control of the investment decisions, operating decisions and financing choices. In firm 2, the board is unable to monitor investment and operating decisions, but does control financing decisions. In firm 3, the board has very little control over either investment, operating or financing decisions. Describe how debt ratios are likely to differ in the three firms.* [@book, p.609]
+
+### Exercise 18.5
+
+*As apolicy analyst, you are asked to comment on a proposed law that wouldmake it more difficult for large outside shareholders to extract private benefits from the partial control they can exert over management. How would such a law affect the incentives of outside shareholders to monitor management?* [@book, p.609]
+
+### Exercise 18.6
+
+*You are a member of the compensation committee of the board of directors for both Fiat and BP. How should the compensation contracts for the CEOs of these two companies differ?* [@book, p.609]
+
+### Exercise 18.7
+
+*The tendency of firms to use equity-based compensation is higher for firms with higher market-to-book ratios. Provide two explanations for this empirical observation.* [@book, p.609]
+
+### Exercise 18.8
+
+*Cybertex's management currently owns 1 per cent of the firm's outstanding shares. The firm is currently financed with 50 per cent debt and 50 per cent equity, but is planning to increase its leverage ratio to 80 per cent debt by borrowing and using the funds to repurchase shares. Management has decided not to participate in the repurchase, so their percentage ownership of the firm will increase.* [@book, p.609]
+
+*Explain how managers' investment incentives are likely to change after the recapitalization.* [@book, p.610]
+
+*Specifically, discuss their incentives to take:* [@book, p.610]
+
+* *negative-NPV projects that benefit them personally* [@book, p.610]
+
+* *risky projects* [@book, p.610]
+
+* *long-term projects that take more than 10 years to provide an adequate return to capital.* [@book, p.610]
+
+### Exercise 18.9
+
+*Suppose that you are designing the compensation contract for Fabio Capello, England's football coach. Two main alternatives are possible. In (a) you will design his bonus based on the total number of wins during the yeaer and the team's success during the World Cup qualification campaign, and will ignore any specific decisions made by Capello. In (b) you will consider the specific measures taken by Capello, and, perhaps with the help of independent outside experts, will base the compensation on the quality of those decisions but ignore the number of wins during the World Cup qualification campaign. Explain the advantages and disadvantages of the two compensation contracts.* [@book, p.610]

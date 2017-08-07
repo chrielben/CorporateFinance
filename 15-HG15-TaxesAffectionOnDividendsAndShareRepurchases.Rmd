@@ -1,0 +1,69 @@
+# Hillier & Grinblatt: Chapter 15: How Taxes Affect Dividends and Share Repurchases
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 15.1
+
+*Explain why the proportion of earnings distributed in the form of a share repurchase has increased substantially over the past 35 years.* [@book, p.518]
+
+### Exercise 15.2
+
+*You are considering buying shares in AMEC plc, which is trading today at £12.31 a share. AMEC is going ex-dividend tomorrow, paying out £2.00 per share. If you believe the equity will drop to £11 following the dividend, should you buy the equity before or after the dividend payment? Explain how your answer depends on the tax rate on ordinary income, cpaital gains and your expected holding period.* [@book, p.518]
+
+### Exercise 15.3
+
+*Hot Shot Uranium Mines is issuing equity for the first time and needs to determine an initial proportion of debt and equity. In its first years, the firm will have substantial tax write-offs as it amortizes the uranium in the mine. In later years, however, it will have high taxable earnings. Make a proposal regarding the firm's optimal capital structure and future payout policy.* [@book, p.518]
+
+### Exercise 15.4
+
+*Suppose you are a manager who wants to retain as much as possible of the firm's earnings in order to increase the size of the firm. How would you react to proposals to repurchase shares that would make it less costly to distribute cash to shareholders? How does your reaction relate to your answer in exercise 15.1?* [@book, p.518]
+
+### Exercise 15.5
+
+*Hunter Industries has generated £1 million in excess of its investment needs. The firm can invest the excess cash in Treasury bonds at 8 per cent or distribute the cash to shareholders as a dividend. Assume that the corporate tax is 28 per cent and that the firm is owned by three different kinds of taxpayer: the first type is tax exempt, the second type has a 25 per cent marginal tax rate, and the third type has a 40 per cent marginal tax rate. Describe the decision preferred by the three different investors, indicating the reasons for the decision and providing calculations to show your conclusions. Next, consider the possibility that the firm can invest in preferred equity that pays 7 per cent per year. Describe how this would affect Hunter's decision, given the 70 per cent dividend exclusion for corporate investors.* [@book, p.518]
+
+### Exercise 15.6
+
+*Suppose that the capital gains tax rate in the USA is expected to increase in three years. How would this affect Steve Balmer's decision on whether Microsoft should use some of the company's excess cash to repurchase shares?* [@book, p.518]
+
+### Exercise 15.7
+
+*The XYZ Corporation has an expected dividend of €4 one period from now. This dividend is expected to grow by 2 per cent per period.* [@book, p.518]
+
+a. *What is the value of a share of equity, assuming that the appropriate discount rate for expected future dividends (e.g. the expected rate of appreciation in the share price of XYZ between dividends) is 10 per cent per period? For your answer, assume that the effective personal tax rate on dividends is 20 per cent and the effective personal tax rate on capital gains and share repurchases is zero.* [@book, p.518]
+
+b. *The XYZ Corporation announces that it will stop paying dividends. Instead, the company will engage in an equity repurchase plan under which future cash that would previously have been earmarked for dividend payments will now be used exclusively for equity repurchases. Assuming no information effects, what should the new price of a share of XYZ be when market participants first learn of this announcement?* [@book, p.518]
+
+### Exercise 15.8
+
+*Alpha Corporation earned £150 million in before-tax profits in 2011. Its corporate tax rate is 28 per cent. Con Daniels, who owns 20 per cent of the firm's shares, has a personal marginal tax rate of 22.5 per cent on dividend income. From Daniels' perspective, what is the effective tax rate on Alpha's profits if its entire after-tax profits are distributed as a dividend?* [@book, p.519]
+
+### Exercise 15.9
+
+*You are engineering an LBO of Suntharee Indistries, an industrial bottle maker. After the LBO, the firm will be financed 90 per cent with the debt and 10 per cent with equity. Maria Benjamin, the CEO, will own 30 per cent of the shares. Maria thinks the proposed capital structure is too highly levered, and points out that, in the first few years, the firm will not be able to use all its debt tax shields. Initially, the interest payments are €400 million per year and EBIT is only €300 million per year. However, EBIT is projected to increase by 20 per cent per year for the next five years.* [@book, p.519]
+
+*Give Maria a pure tax argument that supports the high level of debt. Take into account her personal taxes as well as corporate taxes. Does your tax argument depend on whether Maria wants to dilute her iwnership of the company in the future?* [@book, p.519]
+
+# Hillier & Grinblatt: Chapter 16: Bankruptcy Costs and Debt Holder-Equity Holder Conflicts
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises

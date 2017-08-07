@@ -1,0 +1,101 @@
+# Hillier & Grinblatt: Chapter 19: The Information Conveyed by Financial Decisions
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 19.1
+
+*Describe how a firm's investment decisions might be made differently if its management is highly concerned about the firm's current share price.* [@book, p.641]
+
+### Exercise 19.2
+
+*Why might a firm choose to increase its debt level in response to favourable information about its future prospects?* [@book, p.641]
+
+### Exercise 19.3
+
+*Exhibit 19.5 shows that share prices of industrial firms react more negatively to equity issues than do utilities. Why do you think this is the case?* [@book, p.641]
+
+### Exercise 19.4
+
+*Classical finance theory suggest that firms take projects with positive NPVs regardless of the amount of cash the firm has available. However, empirical evidence suggests that the amount that firms invest is heavily dependent on their available cash flows. Why might this be?* [@book, p.641]
+
+### Exercise 19.5
+
+*Why might a manager close to retirement select a higher debt ratio than a manager far from retirement?* [@book, p.641]
+
+### Exercise 19.6
+
+*ABC Industries is considering an investment that requires the firm to issue new equity. The project will cost £100, but will add £120 to the firm's value. Although management believes the firm's value is £1,000 without the new project, outside investors value the firm at £600 without the project. If the firm currently has 100 shares outstanding, how many new shares must it issue to finance the project? Now assume that the true value of the firm will become known to the market shortly after the new equity has been issued. What will the firm's share price be at this time if it chooses to finance this new investment? What will the share price be if it chooses to pass up the investment?* [@book, p.641]
+
+### Exercise 19.7
+
+*As economies develop, disclosure laws generally get tougher and accounting information becomes more informative. Briefly describe how such changes in the quality of information affect the incentives of firms to be financed by either debt or equity.* [@book, p.641]
+
+### Exercise 19.8
+
+*If it was known that management was selling shares at the same time as it was increasing leverage, how would this affect the credibility of the signal? Why? What other actions or motivations by management could affect the credibility of such a signal?* [@book, p.641]
+
+### Exercise 19.9
+
+*The following table describes management's view of Abracadabra plc's future cash flows, along with the consensus view of outside analysts.* [@book, p.641]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*If the analysts can be convinced that management's beliefs are correct, the firm's value will increase by €200. Assume that there are no tax or other benefits from debt apart from the information the debt may convey. However, if the promised interest payments exceed the cash flows, the firm will lose €100, €150 or €200 because of financial distress, depending on the state of the economy.* [@book, p.641]
+
+*Assuming that management wants to maximize the intrinsic value of the firm, how much debt will the firm take on? Now consider the possibility that management's incentives place an equal weight on the firm's intrinsic value and its current value. How much debt must the firm take on to credibly convince the analysts that their cash flow estimates are wrong? (Hint: consider management's incentive to mislead analysts if the analysts' original projetions are correct.)* [@book, p.642]
+
+### Exercise 19.10
+
+*Analysts project that Infotech, an information services company, will have the following financial data for equally probable high and low states:* [@book, p.642]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*The firm is currently financed entirely with equity. The growth opportunity consists of a possitive-NPV project with a required initial investment of €200 and a value of €300. Management, knowing with 100 per cent certainty whether the firm is in the high or low state, has a choice of taking the project and issuing debt, taking the project and issuing equity, or not taking the project and doing nothing. Examine the pay-offs to current shareholders in the high and low states for each of these three decisions. What if management is unablee to issue debt? (Hint: which beliefs of investors are self-fulfilling?)* [@book, p.642]
+
+### Exercise 19.11
+
+*Mr Chan and Mr Smith are the CEOs of similar textile manufacturing firms. Chan is 64 years old and plans to retire next year. Smith is 52 years old and expects to remain with the firm for some time. Both firms have just announced 10 per cent increase in their earnings. Which firm should expect the greatest share price increase? Explain.* [@book, p.642]
+
+### Exercise 19.12
+
+*Gordon Wu (the largest shareholder of Hopewell) has just announced that he is planning to issue out-of-the-money covered warrants on 10 per cent of Hopewell's outstanding equity. Does this announcement make you more or less optimistic about Hopewell's future profits? Does this affect your assessment of Hopewell's volatility?* [@book, p.642]
+
+### Exercise 19.13
+
+*When firms increase leverage with exchange offers, what generally happens to their share prices? Why might this be?* [@book, p.642]
+
+### Exercise 19.14
+
+*Innovative Technologies produces high-tech equipment for the agriculture industry. This is a very risky firm, because the technology is not completely established, and demand for farm equipment is very cyclical and interest-rate sensitive. As a new start-up, Innovative Tech cannot obtain long-term straight debt. However, it can issue equity, issue convertible debt, or obtain funds from its bank. Devise a financing strategy for Innovative under the following assumptions.* [@book, p.642]
+
+a. *Management believes the firm is fairly priced.* [@book, p.642]
+
+b. *Management believes the firm is slightly undervalued.* [@book, p.642]
+
+c. *Management believes the firm is substantially undervalued.* [@book, p.642]
+
+### Exercise 19.15
+
+*Divided Industried recently announced a substantial increase in its dividend payout. Shareholders complained, because the increased dividend would place an added tax burden on them. Subsequent to the announcement, however, the share price of Dividend Industries increased 10 per cent. Does this share price increase indicate that the market viewed the dividend increase as a good decision?* [@book, p.642]
+
+### Exercise 19.16
+
+*Explain why the threat of hostile takeovers can make firms more short-term orientated.* [@book, p.642]
+
+### Exercise 19.17
+
+*Show in Example 19.7 that it never pays to issue debt in excess of €400 million.* [@book, p.642]

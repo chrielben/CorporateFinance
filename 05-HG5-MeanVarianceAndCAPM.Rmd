@@ -1,0 +1,201 @@
+# Hillier & Grinblatt: Chapter 5: Mean-Variance and the Capital Asset Pricing Model
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 5.1
+
+*Here are some general questions and instructions to test your understanding of the mean standard deviation diagram.* [@book, p.159]
+
+a. *Draw a mean-standard deviation diagram to illustrate combinations of a risky asset and risk-free asset.* [@book, p.159]
+
+b. *Extend this concept to a diagram of the risk-free asset and all possible risky portfolios.* [@book, p.159]
+
+c. *Why does one line, the capital market line, dominate all other possible portfolio combinations?* [@book, p.159]
+
+d. *Label the capital market line and tangency portfolio.* [@book, p.159]
+
+e. *What condition must hold at the tangency portfolio?* [@book, p.159]
+
+### Exercise 5.2
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Compute the tangency portfolio weights, assuming that a risk-free asset yields 5 per cent.* [@book, p.160]
+
+### Exercise 5.3
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*How does your answer to exercise 5.2 change if risk-free rate is 3 per cent? 7 per cent?* [@book, p.160]
+
+### Exercise 5.4
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Draw a mean-standard deviation diagram and plot Deutsche Lufthansa, Volkswagen and BMW on this diagram, as well as the three tagency portfolios found in exercises 5.2 and 5.3.* [@book, p.160]
+
+### Exercise 5.5
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Show that an equally weighted portfolio of Deutsche Lufthansa, Volkswagen and BMW can be improved upon with marginal variance-marginal mean analysis.* [@book, p.160]
+
+### Exercise 5.6
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Repeat exercises 5.2 and 5.3, but use a spreadsheet to solve for the tangency portfolio weights of Deutsche Lufthansa, Volkswagen and BMW in the three cases. The solution of the system of equations requires you to invert the matrix of covariances above, then post-multiply the inverted covariance matrix by the column of risk premiums. The solution should be a column of cells, which needs to be rescaled so that the weights sum to 1.* [@book, p.160]
+
+### Exercise 5.7
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *Compute the betas of Deutsche Lufthansa, Volkswagen and BMW with repeat to the tangency portfolio found in exercise 5.2.* [@book, p.160]
+
+b. *Then compute the beta of an equally weighted portfolio of the three assets.* [@book, p.160]
+
+### Exercise 5.8
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Using the fact that the hyperbolic boundary of the feasible set of the three assets is generated by any two portfolios:* [@book, p.160]
+
+a. *Find the boundary portfolio that is uncorrelated with the tangency portfolio in exercise 5.2.* [@book, p.160]
+
+b. *What is the covariance with the tangency portfolio of all inefficient portfolios that have the same mean return as the portfolio found in part a?* [@book, p.160]
+
+### Exercise 5.9
+
+*Exercises 5.2 - 5.9 make use of the following information about the mean returns and covariances for three German companies: Deutsche Lufthansa, Volkswagen and BMW. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical.* [@book, p.159]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*What is the covariance of the return of the tangency portfolio from exercise 5.2. with the return of all portfolios that have the same expected return as Deutsche Lufthansa?* [@book, p.160]
+
+### Exercise 5.10
+
+*Using a spreadsheet, compute the minimum variance and tangency portfoliosfor the universe of three Norwegian equities (TGS Nopec Geophysical Co SA, Clavis Pharma ASA, and Sevan Marine ASA), described below. Assume the risk-free return is 5.63 per cent. The numbers are based on annualized monthly returns data from January 2008 to December 2010 except the expected return, which is hypothetical. See exercise 5.6 for detailed instructions.* [@book, p.160]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+### Exercise 5.11
+
+*Kato plc has the following simplified balance sheet (based on market values).* [@book, p.160]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *The debt of Kato, being risk-free, earns the risk-free return of 6 per cent per year. The equity of Kato has a mean return of 12 per cent per year, a standard deviation of 30 per cent per year, and a beta of 0.9. Compute the mean return, beta and standard deviation of the assets of Kato. Hint: view the assets as a portfolio of the debt and equity.* [@book, p.161]
+
+b. *If the CAPM holds, what is the mean return of the market portfolio?* [@book, p.161]
+
+c. *How does your answer to part a change if the debt is risky, has returns with a mean of 7 per cent, has a standard deviation of 10 per cent, a beta of 0.2, and has a correlation of 0.3 with the return of the common asset of Kato?* [@book, p.161]
+
+### Exercise 5.12
+
+*The following are adjusted closing prices for Sage Group plc and the corresponding closing index values of the FTSE 100.* [@book, p.161]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Using a spreadsheet. compute Sage Group's beta. Then apply the Bloomberg adjustment to derive the adjusted beta.* [@book, p.161]
+
+### Exercise 5.13
+
+*What value must ACYOU Corporation's expected return be in Example 5.4 to prevent us from forming a combination of Henry's portfolio, ACME, ACYOU and the risk-free asset that is mean-variance superior to Henry's portfolio?* [@book, p.162]
+
+### Exercise 5.14
+
+*Assume the tangency portfolio for equities allocates 80 per cent to the DAX index and 20 per cent to the AEX index. This tangency portfolio has an expected return of 13 per cent computed with respect to this tangency portfolio, is 0.54. Compute the expected return of the DAX index, assuming that this 80/20 percent mix really is the tangency portfolio when the risk-free rate is 5 per cent.* [@book, p.162]
+
+### Exercise 5.15
+
+*Exercise 5.14 assumed that the tangency portfolio allocated 80 per cent to the DAX index and 20 per cent to the AEX index. The beta for the DAX index with this tangency portfolio is 0.54. Compute the beta of a portfolio that is 50 per cent invested in the tangency portfolio and 50 per cent invested in the DAX index.* [@book, p.162]
+
+### Exercise 5.16
+
+*Using data only from 2010-2011, redo Example 5.9. Which differs more from the answer given in Example 5.9: the expected return estimated by averaging the monthly returns, or the expected return obtained by estimating beta and employing the risk-expected return equation? Why?* [@book, p.162]
+
+### Exercise 5.17
+
+*Estimate the Bloomberg-adjusted betas for the following companies.* [@book, p.162]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+### Exercise 5.18
+
+*Compute the tangency and minimum variance portfolios assuming that there are only two equities: African Rainbow and Impala Platinum. The expected returns of African Rainbow and Impala Platinum are 0.15 and 0.14, respectively. The variances of their returns are 0.04 and 0.08, respectively. The covariance between the two is 0.02. Assume the risk-free rate is 6 per cent.* [@book, p.162]
+
+### Exercise 5.19
+
+*There exists a portfolio P, whose expected return is 11 per cent. Asset I has a covariance with P of 0.004, and Asset II has a covariance with P of 0.005. If the expected returns on Asset I and II are 9 per cent and 12 per cent, respectively, and the risk-free rate is 5 per cent, then is it possible for portfolio P to be the tangency portfolio?* [@book, p.162]
+
+### Exercise 5.20
+
+*The expected return of the JSE Index, which you can assume is the tangency portfolio, is 16 per cent and has a standard deviation of 25 per cent per year. The expected return of SABMiller is unknown, but it has a standard deviation of 20 per cent per year and a covariance with the JSE Index of 0.10. If the risk-free rate is 6 per cent per year:* [@book, p.162]
+
+a. *Compute SABMiller's beta.* [@book, p.162]
+
+b. *What is SABMiller's expected return given the beta computed in part a?* [@book, p.162]
+
+c. *If ABSA Bank has half the expected return of SABMiller, then what is ABSA Bank's beta?* [@book, p.162]
+
+d. *What is the beta of the following portfolio?* [@book, p.162]
+    
+    * *0.25 in SABMiller* [@book, p.162]
+    
+    * *0.10 in ABSA Bank* [@book, p.162]
+    
+    * *0.75 in the JSE Index portfolio* [@book, p.162]
+    
+    * *0.20 in Mondi (where $\beta_{Mondi} = 0.80$)* [@book, p.162]
+    
+    * *0.10 in the risk-free asset* [@book, p.162]
+    
+e. *What is the expected return of the portfolio in part d?* [@book, p.162]

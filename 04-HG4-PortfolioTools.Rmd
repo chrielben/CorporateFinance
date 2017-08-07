@@ -1,0 +1,258 @@
+# Hillier & Grinblatt: Chapter 4: Portfolio Tools
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 4.1
+
+*Prove that $E\left[\left(\overset{\sim}{r}- \bar{r}\right)^2\right] = E\left(\overset{\sim}{r}^2\right) - \overset{\sim}{r}^2$ using the following steps:* [@book, p.116]
+
+a. *Show that $E\left[\left(\overset{\sim}{r} -\bar{r}\right)^2\right] = E\left(\overset{\sim}{r}^2-2\bar{r}\overset{\sim}{r}+\bar{r}\right)^2$.* [@book, p.116]
+
+b. *Show that the expression in part $a$ is equal to $E\left(\overset{\sim}{r}^2\right)-2E\left(\bar{r}\overset{\sim}{r}\right)+\bar{r}^2$.* [@book, p.116]
+
+c. *Show that the expression in part $b$ is equal to $E\left(\overset{\sim}{r}^2\right)-2\bar{r}^2+\bar{r}^2$.* [@book, p.116]
+
+*Then add.* [@book, p.116]
+
+### Exercise 4.2
+
+*Derive a formula for the weights of the minimum variance portfolio of two assets using the following steps:* [@book, p.117]
+
+a. *Compute the variance of a portfolio with weights $x$ and $1 - x$ on assets 1 and 2. respectively. Show that you get* [@book, p.117]
+$$var\left(\overset{\sim}{R}_\rho\right) = x^2\sigma^2_1 + \left(1-x\right)^2\sigma^2_2+2x\left(1-x\right)\rho\sigma_1\sigma_2$$
+b. *Take the derivative with respect to $x$ of the expression in part a. Show that the value of $x$ that makes the derivate 0 is* [@book, p.117]
+$$x=\frac{\sigma^2_2-\rho\sigma_1\sigma_2}{\sigma_1^2+\sigma_2^2-2\rho\sigma_1\sigma_2}$$
+
+c. *Compute the covariance of the return of this minimum variance portfolio with assets 1 and 2.* [@book, p.117]
+
+### Exercise 4.3
+
+*Compute the expected return and the variance of the return of the equity of Gamma Corporation. Gamma equity has a return of:* [@book, p.117]
+
+* *24 per cent with probability of 1/4* [@book, p.117]
+
+* *8 per cent with a probabbility of 1/8* [@book, p.117]
+
+* *4 per cent with a probability of 1/2* [@book, p.117]
+
+* *-16 per cent with a probability of 1/8*. [@book, p.117]
+
+### Exercise 4.4
+
+*If the ratio of the return variances of equity A to equity B is denoted by $q$, find the portfolio weights for the two equities that generate a riskless portfolio if the returns of the two equities are (a) perfectly negatively correlated or (b) perfectly positively correlated.* [@book, p.117]
+
+### Exercise 4.5
+
+*Iain invests €10,000 in Michelin shares with a €3 annual dividend selling at €85 per share, and €15,000 in Société Générale shares with €6 annual dividend at €120 per share. The fllowing year, Michelin shares are trading at €104 per share while Société Générale shares trade at €113. Calculate Ian's portfolio weights and returns.* [@book, p.117]
+
+### Exercise 4.6
+
+*Helix, a Chinese national, decides to buy a 6 per cent, 10-year straight-coupon bond for RMB10,000, which pays annual coupons of RMB600 at the end of each year. At the end of the first year, the bond is trading at RMB11,500. At the end of the second year, the bond trades at RMB10,000.* [@book, p.117]
+
+a. *What is Helix's return over the first year?* [@book, p.117]
+
+b. *What is Helix's return over the second year?* [@book, p.117]
+
+c. *What is the average return per year for the two-year period? Use the arithmetic average.* [@book, p.117]
+
+### Exercise 4.7
+
+*Helix's portfolio consists of RMB1,000,000 in face value of the bonds described in exercise 4.6 and an RMB800,000 bank CD that earns 3.5 per cent per year for the first year and 3.0 per cent the second year. Calculate a, b and c as in exercise 4.6* [@book, p.117]
+
+### Exercise 4.8
+
+*Show that the return of the minimum variance portfolio in Example 4.17 - 75 per cent Vodafone and 25 per cent British Airways put option - has the same covariance with Vodafone's equity return as it does with the put option. Show that no other portfolio of the two equities has this property.* [@book, p.117]
+
+### Exercise 4.9
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Assuming (1) that the three economic outcomes have an equal likelihoodof occuring, and (2) that the good economy is twice as likely to take place as the other two:* [@book, p.118]
+
+a. *Calculate individual expected returns for each subsidiary.* [@book, p.118]
+
+b. *Calculate implicit portfolio weights for each subsidiary, and an expected return and variance for the equity in the ABCO conglomerate.* [@book, p.118]
+
+### Exercise 4.10
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Assume in exercise 4.9 that ABCO also has a pension fund, which has a net asset value of €5 billion, implying that ABCO's equity is really worth €9 billion instead of €4billion. The €5 billion in pension funds is invested in short-term government risk-free securities yielding 5 per cent per year. Recalculate parts a and b of exercise 4.9 to reflect this.* [@book, p.118]
+
+### Exercise 4.11
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Assume in exercise 4.9 that ABCO decides to borrow €8 billion at 5 per centinterest to triple its current investment in each of its four lines of business. Assume this new investment has the same per monetary return outcomes as the old investment.* [@book, p.118]
+
+a. *Answer parts a and b of exercise 4.9 given the new investment* [@book, p.118]
+
+b. *How does this result compare with the result from exercise 4.9? Why?* [@book, p.118]
+
+c. *To whom does this return belong? Why?* [@book, p.118]
+
+### Exercise 4.12
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*ABSO's head of risk management now warns of focusing on expected returns to the exclusion of risk measures such as variance. ABCO decides to measure return variance.* [@book, p.118]
+
+a. *For each ABCO subsidiary, compute the return variance with the standard formula* [@book, p.118]
+$$var\left(\overset{\sim}{r}\right)=E\left[\left(\overset{\sim}{r}-\bar{r}\right)^2\right]$$
+    i. *If the three economic scenarios are equally likely.* [@book, p.118]
+    
+    ii. *If the good economic scenario is twice as likely as the other two.* [@book, p.118]
+    
+b. *Show that the alternative variance formula, $E\left(\overset{\sim}{r}^2\right)-E\left[\left(\overset{\sim}{r}-\bar{r}\right)^2\right]$, from exercise 4.1, yields the same results.* [@book, p.118]
+
+### Exercise 4.13
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Assuming that the three economic scenarios are equally likely, compute the covariances and the correlation matrix for the four ABCO subsidiaries. Show that an alternative covariance formula, $cov\left(\overset{\sim}{r}_1,\overset{\sim}{r}_2\right) = E\left(\overset{\sim}{r}_1,\overset{\sim}{r}_2\right)-E\left(\overset{\sim}{r}_1\right)E\left(\overset{\sim}{r}_2\right)$, generates the same covariances.* [@book, p.118]
+
+### Exercise 4.14
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*ABCO is considering selling off two of its four subsidiaries and reinvesting the proceedsin the remaining two subsidiaries, keeping the same relative investment proportions in thesurviving two. Assuming that the three economic scenarios are equally likely, compute the return variance of the €4 billion in ABCO equity for each of the six possible pairs of subsidiaries remaining.* [@book, p.118]
+
+### Exercise 4.15
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*For each of the six cases in exercise 4.14, ABCO wants to consider what would happento the return variance of ABCO's €4 billion in equity if it revised the relative investment proportions in the two remaining subsidiaries. In particular, for each of the six possible sell-off scenarios, what proportion of the €4 billion should be invested in the two remaining subsidiaries if ABCO were to minimize its variance? Assume that short sales are not permitted.* [@book, p.118]
+
+### Exercise 4.16
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Draw six mean-standard deviation diagrams, one for each of the six remaining pairs of subsidiaries in exercise 4.15. Mark the individual subsidiaries, the minimum variance combination assuming no short sales, and ABCO's return variance for 50/50 per cent combination.* [@book, p.118]
+
+### Exercise 4.17
+
+*Exercises 4.9 - 4.17 make use of the following data.* [@book, p.117]
+
+*ABCO is a conglomerate that has €4 billion in ordinary equity. Its capital is invested in four subsidiaries: entertainment (ENT), consumer products (CON), pharmeceuticals (PHA) and insurance (INS). The four subsidiaries are expected to perform differently, depending on the economic environment.* [@book, p.117]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*How does your answer to exercise 4.16 change if short sales are permitted.* [@book, p.118]
+
+### Exercise 4.18
+
+*The three-asset portfolio in Example 4.15 is combined with a risk-free investment.* [@book, p.118]
+
+a. *What are the variance and standard deviation of the return of the new portfolio if the percentage of wealth in the risk-free asset is 25 per cent? What are the portfolio weights of the four assets in the new portfolio?* [@book, p.118]
+
+b. *Repeat the problem with -50 per cent as the weight on the risk-free asset.* [@book, p.118]
+
+### Exercise 4.19
+
+*From Example 4.15, the covariances between the returns of AIB, CRH and Ryanair are given in the matrix below:* [@book, p.119]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Compute the minimum variance portfolio of these three equities.* [@book, p.119]
+
+### Exercise 4.20
+
+*Graph a generalization of Exhibit 4.5 that includes portfolios with short positions in one of the two investments.* [@book, p.119]
+
+### Exercise 4.21
+
+*In Example 4.5, we examined the returns on the FTSE 100 between 2006 and 2009. In 2007 and 2008 the market went through a very difficult period as a result of the poor economic conditions at the time. Did other markets experience the same problem? Collect annual data for the CAC40 (France), DAX (Germany), AEX (The netherlands) and OMX (Sweden), and calculate the expected return and variance of these indices, using data for the same period.* [@book, p.119]
+
+### Exercise 4.22
+
+*A portfolio consists of the following three assets, whose performance depends on the economic environment:* [@book, p.119]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Assuming that the good economic environment is twice as likely as the bad one, compute the expected return and variance of the portfolio.* [@book, p.119]
+
+  *What if £1,000 of asset 4, which has a mean return of 4 per cent, a variance of 0.02, and is uncorrelated with the preceding portfolio? How will this change the expected return and variance of the total investment?* [@book, p.119]
+
+### Exercise 4.23
+
+*You wish to diversify your investment portfolio, and have decided to invest in international equities. The table below provides monthly index levels during 2009 and 2010 for four countries: Hang Seng Index (Hong Kong), OMX Copenhagen 20 (Denmark), DAX (Germany) and the FTSE 100 (UK).* [@book, p.119]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+a. *Calculate the monthly returns to each index.* [@book, p.120]
+
+b. *Calculate the expected return and variance of each of the indices.* [@book, p.120]
+
+c. *Calculate the covariance between each of the indices.* [@book, p.120]
+
+d. *Calculate the expected return and variance of a portfolio with equal weights in each region.* [@book, p.120]
+
+e. *Calculate the weights of each investment in the minimum variance portfolio.* [@book, p.120]
+
+f. *Calculate the expected return and variance of the minimum variance portfolio.* [@book, p.120]

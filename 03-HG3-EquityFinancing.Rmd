@@ -1,0 +1,41 @@
+# Hillier & Grinblatt: Chapter 3: Equity Financing
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 3.1
+
+*AB Electrolux is a Swedish electrical appliance maker. Alecta, an occupational pensions specialist, is one of the company's major shareholders. AB Electrolux has two classes of shares class A, and class B. In 2011 there were 9.5 million shares of class A shares outstanding, entitled to 10 votes per share; there were also 272 million shares of class B equity outstanding with one vote per share. Alecta owns 500,000 shares of class A equity and about 16.2 million shares of class B equity. What percentage of the total votes does Alecta control?* [@book, p.76] 
+
+### Exercise 3.2
+
+*Accurately pricing a new issue is quite costly. Explain why underwriters desire a reputation for pricing new issues as accurately as possible. Describe the actions they take to ensure accuracy.* [@book, p.76]
+
+### Exercise 3.3
+
+*Suppose a firm wants to make £75 million IPO of equity. Estimate the transaction costs associated with the issue.* *Suppose a firm wants to issue a security that pays a guaranteed fixed payment plus an additional benefit when the firm's share price increases. Describe how such a security can be designed, and name existing securities that have this characteristic.* [@book, p.76]
+
+### Exercise 3.4
+
+*Suppose your firm wants to issue a security that pays a guaranteed fixed payment plus an additional benefit when the firm's share price increases. Describe how such a security can be designed, and name existing securities that have this characteristic.* [@book, p.76]
+
+### Exercise 3.5
+
+*When underwriters bring a new firm to market, do you think they have conflicting incentives? What might these be, and what are their causes?* [@book, p.76]
+
+### Exercise 3.6
+
+*Before the internet bubble burst in 2000 and 2001, Internet IPOs were substantially more underpriced than the IPOs issued in earlier periods. Discuss why you think this may have happened.* [@book, p.76]
+
+### Exercise 3.7
+
+*You are interested in buying 100 shares of Correndo SpA. The current bid price is €18 and the ask price is €19. Suppose you submit a market order. At what price is your order likely to purchase the shares at €17.90 versus the putting in a market order?* [@book, p.76]

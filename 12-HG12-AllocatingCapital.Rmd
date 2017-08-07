@@ -1,0 +1,103 @@
+# Hillier & Grinblatt: Chapter 12: Allocating Capital and Corporate Strategy
+
+Text
+
+## Pre-lecture notes
+
+Text
+
+## Lecture notes
+
+Text
+
+## Exercises
+
+### Exercise 12.1
+
+*Assume that company A merges with company B. Assume that A's price/earnings ratio is 20 and B's is 15. If A accounts for 60 per cent of the earnings og the merged firm, and if there are no synergies between the two merged firms, what is the price/earnings ratio of the merged firm?* [@book, p.424]
+
+### Exercise 12.2
+
+*The XYZ firm can invest in new DRAM chip factory for $425 million. The factory, which must be invested today, has cash flows two years from now that depend on the state of the economy. The cash flows when the factory is running at full capacity are described by the following tree diagram:* [@book, p.424]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+*In year 1, the firm has the option of running the plant at less than full capacity. In this case, workers are laid off, production of memory chips is scaled down, and the subsequent cash flows are half of what they would be when the plant was running at full capacity.* [@book, p.424]
+
+*An alternative use for the firm's funds is investment in the market portfolio. In the states that correspond to the branches of the tree above, $1 invested in the market portfolio grows as follows:* [@book, p.424]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/placeholder.png")
+```
+
+*Assume that the risk-free rate is 5 per cent per year, compounded annually. Compute the project's PV (a) with the option to scale down and (b) without the option to scale sown. Compute the difference between these two values, which is the value of the option.* [@book, p.425]
+
+### Exercise 12.3
+
+*Vacant land has been zoned for either one 10,000-square-foot five-unit apartment block or two single-family homes, each with 3,000 square feet. The cost of constructing the single-family homes is £100 per square foot and the cost of constructing the apartments is £120 per square foot. If the property market does well next year, the homes can be sold for £300 per square foot and can be sold for £200 per square foot and the apartments for £140 per square foot. Today, comparable homes could be sold for for £225 per square foot and comparable apartments for £180 per square foot. First-year rental rates (paid at the end of the year) on the comparable apartments and homes are 20 per cent and 10 per cent, respectively, of today's sales prices.* [@book, p.425]
+
+a. *What is implied risk-free rate, assuming that short selling is allowed?* [@book, p.425]
+
+b. *What is the value of the vacant land, assuming that building construction will take place immediately or one year from now? What is the best building alternative?* [@book, p.425]
+
+### Exercise 12.4
+
+*A silver mine has reserves of 25,000 troy ounces of silver. For simplicity, assume the following schedule for extraction, ore purification and sale of the silver ore:* [@book, p.425]
+
+```{r fig.align="center", echo=FALSE, out.width = "150px",}
+knitr::include_graphics("figures/matrix.jpg")
+```
+
+*Also assume the following:* [@book, p.425]
+
+* *The mine, which will exhaust its supply of silver ore in two years, is assumed to have no salvage value.* [@book, p.425]
+
+* *There is no option to shut down the mine prematurely.* [@book, p.425]
+
+* *The current price of silver is £7.53 per troy ounce.* [@book, p.425]
+
+* *Today's forward price for silver settled one year from now £7.32 per troy ounce.* [@book, p.425]
+
+* *Today's forward price for silver settled two years from now is £7.75 per troy ounce.* [@book, p.425]
+
+* *The cost of extraction, ore purification and selling £1 per troy ounce now and at any point over the next two years.* [@book, p.425]
+
+* *The risk-free return is 6 per cent per year.* [@book, p.425]
+
+*What is the value of the silver mine?* [@book, p.425]
+
+### Exercise 12.5
+
+*Widget production and sales take place over a one-year cycle. For simplicity, assume that all costs are paid and all revenues are received at the end of the one-year cycle. A factory with a life of three years (from today) has a capacity to produce 1 million widgets each year (which are to be sold at the end of each year of production). Widgets produced within the last year have just been sold. Each year, production costs can either rise or decline by 50 per cent from the previous year's cost. Over the coming year, widgets will be produced at a cost of €2 per widget. Unlike production costs, which vary from year to year, the revenue from selling widgets is stable. Assume that in the coming year and in all future years the widget selling price is €4 per widget. The performance of a portfolio of equities in the widget industry depends entirely on expected future production costs. When widget production costs increase by 50 per cent from date $t$ to date $t+1$, the return on the industry portfolio over the same interval of time is assumed to be -30 per cent. If the production costs decline by 50 per cent, the industry portfolio return is assumed to be 40 per cent over that time period.* [@book, p.425]
+
+*Asume that the factory producing the widgets is to be closed down and sold for its salvage value whenever the cost of extraction per widget exceeds the selling price of a widget. This occurs at the beginning of the production year. Value the factory, assuming that its salvage value is zero and that the risk-free return is 4 per cent per year.* [@book, p.425-426]
+
+### Exercise 12.6
+
+*Assume that the future closing prices on the New York Mercantile Exchange at the end of August 2011 specify that futures prices per barrel for light sweet crude oil delivered monthly from mid-October 2011 through to mid-December 2013 are, respectively, \$101.56, \$101.08, \$100.63, \$100.23, \$99.88, \$99.55, \$99.26, \$99.00, \$98.76, \$98.58, \$98.41, \$98.25, \$98.09, \$97.93, \$97.83, \$97.77, \$97.71, \$97.66, \$97.61, \$97.56, \$97.52, \$97.48, \$97.46, \$97.46, \$97.46, \$97.47 and \$97.48. Compare the 27 August 2011 value of an oil well that produces 1,000 barrels of light sweet crude oil per month for the months October 2011 through to December 2013, after which the well will be dry. Assume that there are no options to increase or decrease production production, and that the cost of producing each barrel of oil and shipping it to market is \$10,000 per barrel. Also assume that the risk-free return is 4 per cent per year, compounded annually.* [@book, p.426]
+
+### Exercise 12.7
+
+*Compute the risk-neutral probabilities attached to the two states - high demand and low demand - in Example 12.2. Show that applying these probabilities to value the mine provides the same answer for valuing the outcomes in scenarios 1 and 2 as given in Example 12.2.* [@book, p.426]
+
+### Exercise 12.8
+
+*Although there is no empirical evidence to strongly support this hypothesis, some financial journalists have claimed that British managers are short-sighted and overly risk averse., prefering to take on relatively safe projects that pays off quickly instead of taking on longer-term projects with less certain pay-offs. Assume the journalists are correct.* [@book, p.426]
+
+a. *Explain why managers who use a single discount rate for valuing projects are likely to have a systematic bias against longer-term projects if the systematic risk of the cash flows of many long-term investment projects declines over time.* [@book, p.426]
+
+b. *Discuss how the presence of strategic investment options affects the decisions to adopt long-term over short-term investments.* [@book, p.426]
+
+### Exercise 12.9
+
+*Example 12.9 illustrates how an increase in leverage can affect GlaxoSmithKline's price/earnings ratio. If the interest rate on the new debt was 12 per cent rather than 6 per cent, would the firm's price/earnings ratio increase or decrease?* [@book, p.426]
+
+### Exercise 12.10
+
+*Porter and Spence (1982) pointed out that firms may want to overinvest in production capacity to show a commitment to maintain their market share to competitors. In their model, excess plant capacity would not be a positive-NPV project if the cash flow calculations take the competitors' actions as given. However, since competitors are less likely to enter a market when the incumbent firm has execc capacity, the added capacity may be worth while even if it is never used. Comment on whether this strategic consideration should be taken into account when analysing an investment project.* [@book, p.426]
+
+### Exercise 12.11
+
+*Solve the unlevered price/earnings ratio, A/X, by rearranging equation (12.1).* [@book, p.426]
